@@ -48,6 +48,30 @@
     "splits": []
   },
   {
+    "id": "main-any-hardcore-glitched",
+    "label": "Any% Hardcore Glitched",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
     "id": "main-any-hardcore-glitchless",
     "label": "Any% Hardcore Glitchless",
     "group": "Main Categories",
