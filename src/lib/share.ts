@@ -44,7 +44,9 @@ function stripIconsFromConfig(config: SubnauticaRunConfig): SubnauticaRunConfig 
 
 function buildUrl(config: SubnauticaRunConfig): string {
   const url = getCanonicalBaseUrl();
-  url.searchParams.set(SHARE_PARAM, encodeShareConfig(config));
+  const shareValue = encodeShareConfig(config);
+  // Keep payload in hash so large share data never hits CDN/server URL limits.
+  url.hash = `${SHARE_PARAM}=${shareValue}`;
   return url.toString();
 }
 
@@ -65,11 +67,23 @@ export function buildShareUrl(config: SubnauticaRunConfig): ShareBuildResult {
 
 export function getShareParam(): string | null {
   const url = new URL(window.location.href);
+  const hash = url.hash.startsWith("#") ? url.hash.slice(1) : url.hash;
+  const hashParams = new URLSearchParams(hash);
+  const shareFromHash = hashParams.get(SHARE_PARAM);
+  if (shareFromHash) {
+    return shareFromHash;
+  }
+  // Backward compatibility for older links using ?share=...
   return url.searchParams.get(SHARE_PARAM);
 }
 
 export function clearShareParamFromUrl(): void {
   const url = new URL(window.location.href);
   url.searchParams.delete(SHARE_PARAM);
+  const hash = url.hash.startsWith("#") ? url.hash.slice(1) : url.hash;
+  const hashParams = new URLSearchParams(hash);
+  hashParams.delete(SHARE_PARAM);
+  const nextHash = hashParams.toString();
+  url.hash = nextHash ? `#${nextHash}` : "";
   window.history.replaceState({}, document.title, url.toString());
 }
