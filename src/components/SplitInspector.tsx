@@ -12,6 +12,68 @@ import { findSplitById } from "../lib/splitTree";
 import { useAppStore } from "../store/useAppStore";
 import { SubnauticaSplitNode } from "../types/model";
 
+const ICON_MAX_SIDE = 32;
+const ICON_OUTPUT_FORMAT = "image/webp";
+const ICON_OUTPUT_QUALITY = 0.82;
+
+function readFileAsDataUrl(file: File): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(typeof reader.result === "string" ? reader.result : "");
+    reader.onerror = () => reject(reader.error);
+    reader.readAsDataURL(file);
+  });
+}
+
+function loadImage(src: string): Promise<HTMLImageElement> {
+  return new Promise((resolve, reject) => {
+    const image = new Image();
+    image.onload = () => resolve(image);
+    image.onerror = () => reject(new Error("Failed to decode icon image."));
+    image.src = src;
+  });
+}
+
+async function optimizeIconBase64(file: File): Promise<string> {
+  const dataUrl = await readFileAsDataUrl(file);
+  const comma = dataUrl.indexOf(",");
+  const fallbackBase64 = comma >= 0 ? dataUrl.slice(comma + 1) : dataUrl;
+  if (!dataUrl.startsWith("data:image/")) {
+    return fallbackBase64;
+  }
+
+  try {
+    const image = await loadImage(dataUrl);
+    const sourceWidth = image.naturalWidth || image.width;
+    const sourceHeight = image.naturalHeight || image.height;
+    if (!sourceWidth || !sourceHeight) {
+      return fallbackBase64;
+    }
+
+    const scale = Math.min(1, ICON_MAX_SIDE / Math.max(sourceWidth, sourceHeight));
+    const width = Math.max(1, Math.round(sourceWidth * scale));
+    const height = Math.max(1, Math.round(sourceHeight * scale));
+
+    const canvas = document.createElement("canvas");
+    canvas.width = width;
+    canvas.height = height;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) {
+      return fallbackBase64;
+    }
+
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = "high";
+    ctx.drawImage(image, 0, 0, width, height);
+
+    const optimizedDataUrl = canvas.toDataURL(ICON_OUTPUT_FORMAT, ICON_OUTPUT_QUALITY);
+    const optimizedComma = optimizedDataUrl.indexOf(",");
+    return optimizedComma >= 0 ? optimizedDataUrl.slice(optimizedComma + 1) : fallbackBase64;
+  } catch {
+    return fallbackBase64;
+  }
+}
+
 function updateIconData(
   event: ChangeEvent<HTMLInputElement>,
   onData: (base64: string) => void
@@ -22,17 +84,11 @@ function updateIconData(
   }
   event.target.value = "";
 
-  const reader = new FileReader();
-  reader.onload = () => {
-    const result = typeof reader.result === "string" ? reader.result : "";
-    if (!result) {
-      return;
+  void optimizeIconBase64(file).then((base64) => {
+    if (base64) {
+      onData(base64);
     }
-    const comma = result.indexOf(",");
-    const base64 = comma >= 0 ? result.slice(comma + 1) : result;
-    onData(base64);
-  };
-  reader.readAsDataURL(file);
+  });
 }
 
 function normalizeBase64(raw: string): string {

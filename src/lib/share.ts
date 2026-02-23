@@ -2,7 +2,7 @@ import LZString from "lz-string";
 import { SubnauticaRunConfig, SubnauticaSplitKind, SubnauticaSplitNode } from "../types/model";
 
 const SHARE_PARAM = "share";
-const SHARE_URL_MAX_LENGTH = 30000;
+const SHARE_URL_MAX_LENGTH = 120000;
 const SHARE_FORMAT_V2_PREFIX = "v2:";
 
 const KIND_TO_CODE: Record<SubnauticaSplitKind, string> = {
