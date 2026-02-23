@@ -1,0 +1,3783 @@
+[
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitched-game-mode-survival-1",
+    "label": "100% | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitched-game-mode-hardcore-2",
+    "label": "100% | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitched-game-mode-creative-3",
+    "label": "100% | Run Type: Glitched | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitchless-game-mode-survival-4",
+    "label": "100% | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitchless-game-mode-hardcore-5",
+    "label": "100% | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-ndx73pj2-run-type-glitchless-game-mode-creative-6",
+    "label": "100% | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "100%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitched-game-mode-survival-1",
+    "label": "All Achievements | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitched-game-mode-hardcore-2",
+    "label": "All Achievements | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitched-game-mode-creative-3",
+    "label": "All Achievements | Run Type: Glitched | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitchless-game-mode-survival-4",
+    "label": "All Achievements | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitchless-game-mode-hardcore-5",
+    "label": "All Achievements | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-vdoo7q9d-run-type-glitchless-game-mode-creative-6",
+    "label": "All Achievements | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Achievements",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitched-game-mode-survival-1",
+    "label": "All Blueprints | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitched-game-mode-hardcore-2",
+    "label": "All Blueprints | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitched-game-mode-creative-3",
+    "label": "All Blueprints | Run Type: Glitched | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitchless-game-mode-survival-4",
+    "label": "All Blueprints | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitchless-game-mode-hardcore-5",
+    "label": "All Blueprints | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-zdn4npqk-run-type-glitchless-game-mode-creative-6",
+    "label": "All Blueprints | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Blueprints",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitched-game-mode-survival-1",
+    "label": "Any% | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitched-game-mode-hardcore-2",
+    "label": "Any% | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitched-game-mode-creative-3",
+    "label": "Any% | Run Type: Glitched | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitchless-game-mode-survival-4",
+    "label": "Any% | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitchless-game-mode-hardcore-5",
+    "label": "Any% | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-n2y5em8k-run-type-glitchless-game-mode-creative-6",
+    "label": "Any% | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-hatch-version-cuddlefish-1",
+    "label": "Early Access Runs | Category: Hatch% | Version: Cuddlefish",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Hatch%",
+        "Version": "Cuddlefish"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-hatch-version-ghost-2",
+    "label": "Early Access Runs | Category: Hatch% | Version: Ghost",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Hatch%",
+        "Version": "Ghost"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-hatch-version-voice-of-the-deep-3",
+    "label": "Early Access Runs | Category: Hatch% | Version: Voice of the Deep",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Hatch%",
+        "Version": "Voice of the Deep"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-hatch-version-silent-running-4",
+    "label": "Early Access Runs | Category: Hatch% | Version: Silent Running",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Hatch%",
+        "Version": "Silent Running"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-hatch-version-infected-5",
+    "label": "Early Access Runs | Category: Hatch% | Version: Infected",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Hatch%",
+        "Version": "Infected"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-required-tools-version-cuddlefish-6",
+    "label": "Early Access Runs | Category: Required Tools | Version: Cuddlefish",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Required Tools",
+        "Version": "Cuddlefish"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-required-tools-version-ghost-7",
+    "label": "Early Access Runs | Category: Required Tools | Version: Ghost",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Required Tools",
+        "Version": "Ghost"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-required-tools-version-voice-of-the-deep-8",
+    "label": "Early Access Runs | Category: Required Tools | Version: Voice of the Deep",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Required Tools",
+        "Version": "Voice of the Deep"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-required-tools-version-silent-running-9",
+    "label": "Early Access Runs | Category: Required Tools | Version: Silent Running",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Required Tools",
+        "Version": "Silent Running"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-required-tools-version-infected-10",
+    "label": "Early Access Runs | Category: Required Tools | Version: Infected",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Required Tools",
+        "Version": "Infected"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-console-version-cuddlefish-11",
+    "label": "Early Access Runs | Category: Console% | Version: Cuddlefish",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Console%",
+        "Version": "Cuddlefish"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-console-version-ghost-12",
+    "label": "Early Access Runs | Category: Console% | Version: Ghost",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Console%",
+        "Version": "Ghost"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-console-version-voice-of-the-deep-13",
+    "label": "Early Access Runs | Category: Console% | Version: Voice of the Deep",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Console%",
+        "Version": "Voice of the Deep"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-console-version-silent-running-14",
+    "label": "Early Access Runs | Category: Console% | Version: Silent Running",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Console%",
+        "Version": "Silent Running"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-console-version-infected-15",
+    "label": "Early Access Runs | Category: Console% | Version: Infected",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "Console%",
+        "Version": "Infected"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-all-blueprints-version-cuddlefish-16",
+    "label": "Early Access Runs | Category: All Blueprints | Version: Cuddlefish",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "All Blueprints",
+        "Version": "Cuddlefish"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-all-blueprints-version-ghost-17",
+    "label": "Early Access Runs | Category: All Blueprints | Version: Ghost",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "All Blueprints",
+        "Version": "Ghost"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-all-blueprints-version-voice-of-the-deep-18",
+    "label": "Early Access Runs | Category: All Blueprints | Version: Voice of the Deep",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "All Blueprints",
+        "Version": "Voice of the Deep"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-all-blueprints-version-silent-running-19",
+    "label": "Early Access Runs | Category: All Blueprints | Version: Silent Running",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "All Blueprints",
+        "Version": "Silent Running"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-q25qxw82-category-all-blueprints-version-infected-20",
+    "label": "Early Access Runs | Category: All Blueprints | Version: Infected",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Early Access Runs",
+      "variables": {
+        "Category": "All Blueprints",
+        "Version": "Infected"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitched-game-mode-survival-1",
+    "label": "Hatch% | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitched-game-mode-hardcore-2",
+    "label": "Hatch% | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitched-game-mode-creative-3",
+    "label": "Hatch% | Run Type: Glitched | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitchless-game-mode-survival-4",
+    "label": "Hatch% | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitchless-game-mode-hardcore-5",
+    "label": "Hatch% | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-z273qood-run-type-glitchless-game-mode-creative-6",
+    "label": "Hatch% | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Hatch%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-02q3v9pk-run-type-glitched-game-mode-survival-1",
+    "label": "No Damage | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "No Damage",
+      "variables": {
+        "Game Mode": "Survival",
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-02q3v9pk-run-type-glitchless-game-mode-survival-2",
+    "label": "No Damage | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "No Damage",
+      "variables": {
+        "Game Mode": "Survival",
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-xd13gr8k-run-type-glitched-game-mode-survival-1",
+    "label": "Required Tools | Run Type: Glitched | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Required Tools",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-xd13gr8k-run-type-glitched-game-mode-hardcore-2",
+    "label": "Required Tools | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Required Tools",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-xd13gr8k-run-type-glitchless-game-mode-survival-3",
+    "label": "Required Tools | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Required Tools",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-xd13gr8k-run-type-glitchless-game-mode-hardcore-4",
+    "label": "Required Tools | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Required Tools",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitched-game-mode-survival-1",
+    "label": "All Lifepod PDAs | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitched-game-mode-hardcore-2",
+    "label": "All Lifepod PDAs | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitched-game-mode-creative-3",
+    "label": "All Lifepod PDAs | Run Type: Glitched | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitchless-game-mode-survival-4",
+    "label": "All Lifepod PDAs | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitchless-game-mode-hardcore-5",
+    "label": "All Lifepod PDAs | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7dg6x9xk-run-type-glitchless-game-mode-creative-6",
+    "label": "All Lifepod PDAs | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Lifepod PDAs",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-xd11em4d-game-mode-survival-1",
+    "label": "All Vehicles | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Vehicles",
+      "variables": {
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-xd11em4d-game-mode-hardcore-2",
+    "label": "All Vehicles | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Vehicles",
+      "variables": {
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-wkp39y02-default-1",
+    "label": "Console%",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Console%",
+      "variables": {},
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9d8o6v32-run-type-glitched-game-mode-survival-1",
+    "label": "Cyclops | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Cyclops",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9d8o6v32-run-type-glitched-game-mode-hardcore-2",
+    "label": "Cyclops | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Cyclops",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9d8o6v32-run-type-glitchless-game-mode-survival-3",
+    "label": "Cyclops | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Cyclops",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9d8o6v32-run-type-glitchless-game-mode-hardcore-4",
+    "label": "Cyclops | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Cyclops",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdzwevgd-run-type-glitched-1",
+    "label": "Death - Any | Run Type: Glitched",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Any",
+      "variables": {
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdzwevgd-run-type-glitchless-2",
+    "label": "Death - Any | Run Type: Glitchless",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Any",
+      "variables": {
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdzwevgd-run-type-fire-3",
+    "label": "Death - Any | Run Type: Fire",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Any",
+      "variables": {
+        "Run Type": "Fire"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdzwevgd-run-type-creative-4",
+    "label": "Death - Any | Run Type: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Any",
+      "variables": {
+        "Run Type": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdrl975d-run-type-glitched-1",
+    "label": "Death - Dragon | Run Type: Glitched",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Dragon",
+      "variables": {
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdrl975d-run-type-glitchless-2",
+    "label": "Death - Dragon | Run Type: Glitchless",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Dragon",
+      "variables": {
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-q25mx7vd-run-type-glitched-1",
+    "label": "Death - Reaper | Run Type: Glitched",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Reaper",
+      "variables": {
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-q25mx7vd-run-type-glitchless-2",
+    "label": "Death - Reaper | Run Type: Glitchless",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death - Reaper",
+      "variables": {
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitched-game-mode-survival-1",
+    "label": "Ecology | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitched-game-mode-hardcore-2",
+    "label": "Ecology | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitched-game-mode-creative-3",
+    "label": "Ecology | Run Type: Glitched | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitchless-game-mode-survival-4",
+    "label": "Ecology | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitchless-game-mode-hardcore-5",
+    "label": "Ecology | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-5dw6gn02-run-type-glitchless-game-mode-creative-6",
+    "label": "Ecology | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Ecology",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-ndx5pvjk-run-type-glitched-game-mode-survival-1",
+    "label": "Full Loadout | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Loadout",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-ndx5pvjk-run-type-glitched-game-mode-hardcore-2",
+    "label": "Full Loadout | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Loadout",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-ndx5pvjk-run-type-glitchless-game-mode-survival-3",
+    "label": "Full Loadout | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Loadout",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-ndx5pvjk-run-type-glitchless-game-mode-hardcore-4",
+    "label": "Full Loadout | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Loadout",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-z271moz2-run-type-glitched-game-mode-survival-1",
+    "label": "Interact - QEP | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Interact - QEP",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-z271moz2-run-type-glitched-game-mode-creative-2",
+    "label": "Interact - QEP | Run Type: Glitched | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Interact - QEP",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-z271moz2-run-type-glitchless-game-mode-survival-3",
+    "label": "Interact - QEP | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Interact - QEP",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-z271moz2-run-type-glitchless-game-mode-creative-4",
+    "label": "Interact - QEP | Run Type: Glitchless | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Interact - QEP",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7kjllxg2-run-type-glitched-1",
+    "label": "Moist% | Run Type: Glitched",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Moist%",
+      "variables": {
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-7kjllxg2-run-type-glitchless-2",
+    "label": "Moist% | Run Type: Glitchless",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Moist%",
+      "variables": {
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9kvqmxod-game-mode-survival-1",
+    "label": "PRAWN | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PRAWN",
+      "variables": {
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9kvqmxod-game-mode-hardcore-2",
+    "label": "PRAWN | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PRAWN",
+      "variables": {
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zdn8n19d-game-mode-survival-1",
+    "label": "Repair Drive Core | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Repair Drive Core",
+      "variables": {
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zdn8n19d-game-mode-creative-2",
+    "label": "Repair Drive Core | Game Mode: Creative",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Repair Drive Core",
+      "variables": {
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-jdzmw1vk-default-1",
+    "label": "Repair Lifepod",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Repair Lifepod",
+      "variables": {},
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zd3v6y82-run-type-glitched-game-mode-survival-1",
+    "label": "Seamoth | Run Type: Glitched | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Seamoth",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zd3v6y82-run-type-glitched-game-mode-hardcore-2",
+    "label": "Seamoth | Run Type: Glitched | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Seamoth",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zd3v6y82-run-type-glitchless-game-mode-survival-3",
+    "label": "Seamoth | Run Type: Glitchless | Game Mode: Survival",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Seamoth",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-zd3v6y82-run-type-glitchless-game-mode-hardcore-4",
+    "label": "Seamoth | Run Type: Glitchless | Game Mode: Hardcore",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Seamoth",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-02qv9lyd-default-1",
+    "label": "Single Oxygen Tank",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Single Oxygen Tank",
+      "variables": {},
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9kvvvn3k-run-type-glitched-1",
+    "label": "Unusual Doll | Run Type: Glitched",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Unusual Doll",
+      "variables": {
+        "Run Type": "Glitched"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-category-extensions-9kvvvn3k-run-type-glitchless-2",
+    "label": "Unusual Doll | Run Type: Glitchless",
+    "group": "Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Unusual Doll",
+      "variables": {
+        "Run Type": "Glitchless"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-survival-category-type-normal-game-subnautica-1",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Survival | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Survival",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-survival-category-type-coffee-game-subnautica-2",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Survival | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Survival",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-hardcore-category-type-normal-game-subnautica-3",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Hardcore | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-hardcore-category-type-coffee-game-subnautica-4",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Hardcore | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-creative-category-type-normal-game-subnautica-5",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Creative | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Creative",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitched-game-mode-creative-category-type-coffee-game-subnautica-6",
+    "label": "All Potions | Run Type: Glitched | Game Mode: Creative | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Creative",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-survival-category-type-normal-game-subnautica-7",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Survival | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-survival-category-type-coffee-game-subnautica-8",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Survival | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-hardcore-category-type-normal-game-subnautica-9",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Hardcore | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-hardcore-category-type-coffee-game-subnautica-10",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Hardcore | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-creative-category-type-normal-game-subnautica-11",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Creative | Category Type: Normal | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative",
+        "Category Type": "Normal"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr55oxk-run-type-glitchless-game-mode-creative-category-type-coffee-game-subnautica-12",
+    "label": "All Potions | Run Type: Glitchless | Game Mode: Creative | Category Type: Coffee | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "All Potions",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative",
+        "Category Type": "Coffee"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-82477jg2-run-type-glitched-game-mode-survival-game-subnautica-1",
+    "label": "Any% BetterRNG | Run Type: Glitched | Game Mode: Survival | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any% BetterRNG",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-82477jg2-run-type-glitched-game-mode-hardcore-game-subnautica-2",
+    "label": "Any% BetterRNG | Run Type: Glitched | Game Mode: Hardcore | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any% BetterRNG",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-82477jg2-run-type-glitchless-game-mode-survival-game-subnautica-3",
+    "label": "Any% BetterRNG | Run Type: Glitchless | Game Mode: Survival | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any% BetterRNG",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-82477jg2-run-type-glitchless-game-mode-hardcore-game-subnautica-4",
+    "label": "Any% BetterRNG | Run Type: Glitchless | Game Mode: Hardcore | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any% BetterRNG",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-9d8qqy3d-game-mode-survival-game-subnautica-1",
+    "label": "Chair% | Game Mode: Survival | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Chair%",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-9d8qqy3d-game-mode-hardcore-game-subnautica-2",
+    "label": "Chair% | Game Mode: Hardcore | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Chair%",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Hardcore"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-survival-module-component-l-glass-compartment-game-subnautica-1",
+    "label": "Construction | Run Type: Glitched | Game Mode: Survival | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Survival",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-survival-module-component-medkit-fabricator-game-subnautica-2",
+    "label": "Construction | Run Type: Glitched | Game Mode: Survival | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Survival",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-hardcore-module-component-l-glass-compartment-game-subnautica-3",
+    "label": "Construction | Run Type: Glitched | Game Mode: Hardcore | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-hardcore-module-component-medkit-fabricator-game-subnautica-4",
+    "label": "Construction | Run Type: Glitched | Game Mode: Hardcore | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Hardcore",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-creative-module-component-l-glass-compartment-game-subnautica-5",
+    "label": "Construction | Run Type: Glitched | Game Mode: Creative | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Creative",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitched-game-mode-creative-module-component-medkit-fabricator-game-subnautica-6",
+    "label": "Construction | Run Type: Glitched | Game Mode: Creative | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitched",
+        "Game Mode": "Creative",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-survival-module-component-l-glass-compartment-game-subnautica-7",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Survival | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-survival-module-component-medkit-fabricator-game-subnautica-8",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Survival | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Survival",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-hardcore-module-component-l-glass-compartment-game-subnautica-9",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Hardcore | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-hardcore-module-component-medkit-fabricator-game-subnautica-10",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Hardcore | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Hardcore",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-creative-module-component-l-glass-compartment-game-subnautica-11",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Creative | Module/Component: L Glass Compartment | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative",
+        "Module/Component": "L Glass Compartment"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-q25nlx82-run-type-glitchless-game-mode-creative-module-component-medkit-fabricator-game-subnautica-12",
+    "label": "Construction | Run Type: Glitchless | Game Mode: Creative | Module/Component: Medkit Fabricator | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Construction",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative",
+        "Module/Component": "Medkit Fabricator"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr539xk-death-type-gasopod-s-game-subnautica-1",
+    "label": "Death(s) | Death Type: Gasopod(s) | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Death Type": "Gasopod(s)"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr539xk-death-type-bone-shark-game-subnautica-2",
+    "label": "Death(s) | Death Type: Bone Shark | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Death Type": "Bone Shark"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-jdr539xk-death-type-ghost-leviathan-game-subnautica-3",
+    "label": "Death(s) | Death Type: Ghost Leviathan  | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Death(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Death Type": "Ghost Leviathan "
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy44d-run-type-normal-game-mode-survival-game-subnautica-1",
+    "label": "Full Inventory | Run Type: Normal | Game Mode: Survival | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Inventory",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Normal",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy44d-run-type-normal-game-mode-creative-game-subnautica-2",
+    "label": "Full Inventory | Run Type: Normal | Game Mode: Creative | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Inventory",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "Normal",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy44d-run-type-storage-game-mode-survival-game-subnautica-3",
+    "label": "Full Inventory | Run Type: +Storage | Game Mode: Survival | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Inventory",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "+Storage",
+        "Game Mode": "Survival"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy44d-run-type-storage-game-mode-creative-game-subnautica-4",
+    "label": "Full Inventory | Run Type: +Storage | Game Mode: Creative | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Full Inventory",
+      "variables": {
+        "Game": "Subnautica",
+        "Run Type": "+Storage",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-seaglide-game-subnautica-1",
+    "label": "Obtain Item(s) | Item(s): Seaglide | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Seaglide"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-propulsion-cannon-game-subnautica-2",
+    "label": "Obtain Item(s) | Item(s): Propulsion Cannon | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Propulsion Cannon"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-acid-mushroom-game-subnautica-3",
+    "label": "Obtain Item(s) | Item(s): Acid Mushroom | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Acid Mushroom"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-stalker-tooth-game-subnautica-4",
+    "label": "Obtain Item(s) | Item(s): Stalker Tooth | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Stalker Tooth"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-cured-oculus-game-subnautica-5",
+    "label": "Obtain Item(s) | Item(s): Cured Oculus | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Cured Oculus"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-xd1yy88d-item-s-stalker-tooth-4-game-subnautica-6",
+    "label": "Obtain Item(s) | Item(s): Stalker Tooth (4) | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Obtain Item(s)",
+      "variables": {
+        "Game": "Subnautica",
+        "Item(s)": "Stalker Tooth (4)"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-survival-item-s-copper-game-subnautica-1",
+    "label": "PIOGTC | Game Mode: Survival | Item(s): Copper | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Survival",
+        "Item(s)": "Copper"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-survival-item-s-titanium-game-subnautica-2",
+    "label": "PIOGTC | Game Mode: Survival | Item(s): Titanium | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Survival",
+        "Item(s)": "Titanium"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-survival-item-s-quartz-game-subnautica-3",
+    "label": "PIOGTC | Game Mode: Survival | Item(s): Quartz | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Survival",
+        "Item(s)": "Quartz"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-survival-item-s-metal-salvage-game-subnautica-4",
+    "label": "PIOGTC | Game Mode: Survival | Item(s): Metal Salvage | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Survival",
+        "Item(s)": "Metal Salvage"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": true,
+      "CreativeStart": false,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": false,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-creative-item-s-copper-game-subnautica-5",
+    "label": "PIOGTC | Game Mode: Creative | Item(s): Copper | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Creative",
+        "Item(s)": "Copper"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-creative-item-s-titanium-game-subnautica-6",
+    "label": "PIOGTC | Game Mode: Creative | Item(s): Titanium | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Creative",
+        "Item(s)": "Titanium"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-creative-item-s-quartz-game-subnautica-7",
+    "label": "PIOGTC | Game Mode: Creative | Item(s): Quartz | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Creative",
+        "Item(s)": "Quartz"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "all-subnautica-uce-02qnnmp2-game-mode-creative-item-s-metal-salvage-game-subnautica-8",
+    "label": "PIOGTC | Game Mode: Creative | Item(s): Metal Salvage | Game: Subnautica",
+    "group": "Unofficial Category Extensions",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "PIOGTC",
+      "variables": {
+        "Game": "Subnautica",
+        "Game Mode": "Creative",
+        "Item(s)": "Metal Salvage"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  }
+]

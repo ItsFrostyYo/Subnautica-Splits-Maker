@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "CuteFish",
+    "label": "Cuddlefish"
+  },
+  {
+    "id": "AcidMushroom",
+    "label": "Acid Mushroom"
+  },
+  {
+    "id": "BrainCoral",
+    "label": "Brain Coral"
+  },
+  {
+    "id": "Gasopod",
+    "label": "Gasopod"
+  },
+  {
+    "id": "Airsack",
+    "label": "Bladderfish"
+  },
+  {
+    "id": "Biter",
+    "label": "Biter"
+  },
+  {
+    "id": "Stalker",
+    "label": "Stalker"
+  },
+  {
+    "id": "SandShark",
+    "label": "Sand Shark"
+  },
+  {
+    "id": "LimestoneOutcrops",
+    "label": "Limestone Outcrops"
+  },
+  {
+    "id": "RabbitRay",
+    "label": "Rabbit Ray"
+  },
+  {
+    "id": "Boomerang",
+    "label": "Boomerang"
+  },
+  {
+    "id": "Garryfish",
+    "label": "Garryfish"
+  },
+  {
+    "id": "Peeper",
+    "label": "Peeper"
+  },
+  {
+    "id": "Shuttlebug",
+    "label": "Shuttlebug"
+  },
+  {
+    "id": "Bleeder",
+    "label": "Bleeder"
+  },
+  {
+    "id": "Readme",
+    "label": "Start Here"
+  },
+  {
+    "id": "SurvivalChecklist",
+    "label": "Survival Checklist"
+  },
+  {
+    "id": "AuroraOverview",
+    "label": "Aurora Ship Status"
+  },
+  {
+    "id": "AEPSuit",
+    "label": "All-Environment Protection Suit"
+  },
+  {
+    "id": "StalkerTooth",
+    "label": "Stalker Teeth"
+  },
+  {
+    "id": "Floater",
+    "label": "Floater"
+  },
+  {
+    "id": "Holefish",
+    "label": "Holefish"
+  },
+  {
+    "id": "CaveCrawler",
+    "label": "Cave Crawler"
+  },
+  {
+    "id": "Lifepod",
+    "label": "2-Berth Emergency Lifepod"
+  },
+  {
+    "id": "TableCoral",
+    "label": "Table Coral"
+  },
+  {
+    "id": "Creepvine",
+    "label": "Creepvine"
+  },
+  {
+    "id": "CreepvineSeeds",
+    "label": "Creepvine Seeds"
+  },
+  {
+    "id": "HangingStinger",
+    "label": "Drooping Stinger"
+  },
+  {
+    "id": "Hoopfish",
+    "label": "Hoopfish"
+  },
+  {
+    "id": "CoralSample",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "Crash",
+    "label": "Crashfish"
+  },
+  {
+    "id": "CrashLair",
+    "label": "Sulfur Plant"
+  },
+  {
+    "id": "Eyeye",
+    "label": "Eyeye"
+  },
+  {
+    "id": "Hoverfish",
+    "label": "Hoverfish"
+  },
+  {
+    "id": "Reginald",
+    "label": "Reginald"
+  },
+  {
+    "id": "Spadefish",
+    "label": "Spadefish"
+  },
+  {
+    "id": "Reefback",
+    "label": "Reefback Leviathan"
+  },
+  {
+    "id": "TigerPlant",
+    "label": "Tiger Plant"
+  },
+  {
+    "id": "BloodGrass",
+    "label": "Blood Grass"
+  },
+  {
+    "id": "TreeLeech",
+    "label": "Tree Leech"
+  },
+  {
+    "id": "TreeMushroom",
+    "label": "Tree Mushrooms"
+  },
+  {
+    "id": "Jellyray",
+    "label": "Jellyray"
+  },
+  {
+    "id": "Mesmer",
+    "label": "Mesmer"
+  },
+  {
+    "id": "ModificationStation",
+    "label": "Modification Station"
+  },
+  {
+    "id": "Seamoth",
+    "label": "Seamoth"
+  },
+  {
+    "id": "Moonpool",
+    "label": "Moonpool"
+  },
+  {
+    "id": "StasisRifle",
+    "label": "Stasis Rifle"
+  },
+  {
+    "id": "PropulsionCannon",
+    "label": "Propulsion Cannon"
+  },
+  {
+    "id": "MetalSalvage",
+    "label": "Scattered Wreckage"
+  },
+  {
+    "id": "Builder",
+    "label": "Habitat Builder"
+  },
+  {
+    "id": "SandstoneOutcrops",
+    "label": "Sandstone Outcrops"
+  },
+  {
+    "id": "ShaleOutcrops",
+    "label": "Shale Outcrops"
+  },
+  {
+    "id": "BasaltOutcrops",
+    "label": "Basalt Outcrops"
+  },
+  {
+    "id": "Techlight",
+    "label": "Floodlight"
+  },
+  {
+    "id": "LEDLight",
+    "label": "Light Stick"
+  },
+  {
+    "id": "BasePlanter",
+    "label": "Planters & Pots"
+  },
+  {
+    "id": "FarmingTray",
+    "label": "Exterior Growbed"
+  },
+  {
+    "id": "PlanterBox",
+    "label": "Interior Growbed"
+  },
+  {
+    "id": "WaterFilter",
+    "label": "Water Filtration System"
+  },
+  {
+    "id": "HangingFruitTree",
+    "label": "Lantern Tree"
+  },
+  {
+    "id": "BulboTree",
+    "label": "Bulbo Tree"
+  },
+  {
+    "id": "WhiteMushroom",
+    "label": "Deep Shroom"
+  },
+  {
+    "id": "PinkMushroom",
+    "label": "Pink Cap"
+  },
+  {
+    "id": "PurpleRattle",
+    "label": "Speckled Rattler"
+  },
+  {
+    "id": "PurpleVasePlant",
+    "label": "Ming Plant"
+  },
+  {
+    "id": "OrangeMushroom",
+    "label": "Jaffa Cup"
+  },
+  {
+    "id": "VegetablePlant",
+    "label": "Chinese Potato Plant"
+  },
+  {
+    "id": "MelonPlant",
+    "label": "Marblemelon Plant"
+  },
+  {
+    "id": "KooshBush",
+    "label": "Bulb Bush"
+  },
+  {
+    "id": "BluePalm",
+    "label": "Blue Palm"
+  },
+  {
+    "id": "SmallFan",
+    "label": "Pygmy Fan"
+  },
+  {
+    "id": "PurpleFan",
+    "label": "Veined Nettle"
+  },
+  {
+    "id": "WrithingWeed",
+    "label": "Writhing Weed"
+  },
+  {
+    "id": "JellyPlant",
+    "label": "Gel Sack"
+  },
+  {
+    "id": "GabeSFeather",
+    "label": "Gabe's Feather"
+  },
+  {
+    "id": "SeaCrown",
+    "label": "Sea Crown"
+  },
+  {
+    "id": "MembrainTree",
+    "label": "Membrain Tree"
+  },
+  {
+    "id": "PinkFlower",
+    "label": "Voxel Shrub"
+  },
+  {
+    "id": "FernPalm",
+    "label": "Fern Palm"
+  },
+  {
+    "id": "OrangePetalsPlant",
+    "label": "Grub Basket"
+  },
+  {
+    "id": "EyesPlant",
+    "label": "Eye Stalk"
+  },
+  {
+    "id": "RedGreenTentacle",
+    "label": "Ghost Weed"
+  },
+  {
+    "id": "PurpleStalk",
+    "label": "Violet Beau"
+  },
+  {
+    "id": "RedBasketPlant",
+    "label": "Rouge Cradle"
+  },
+  {
+    "id": "RedBush",
+    "label": "Redwort"
+  },
+  {
+    "id": "RedConePlant",
+    "label": "Regress Shell"
+  },
+  {
+    "id": "ShellGrass",
+    "label": "Spiked Horn Grass"
+  },
+  {
+    "id": "SpottedLeavesPlant",
+    "label": "Spotted Dockleaf"
+  },
+  {
+    "id": "RedRollPlant",
+    "label": "Furled Papyrus"
+  },
+  {
+    "id": "PurpleBranches",
+    "label": "Cave Bush"
+  },
+  {
+    "id": "SnakeMushroom",
+    "label": "Jellyshroom"
+  },
+  {
+    "id": "BloodVine",
+    "label": "Bloodvine"
+  },
+  {
+    "id": "Spotlight",
+    "label": "Spotlight"
+  },
+  {
+    "id": "IslandsPDAPaal",
+    "label": "Paul Torgal's Log"
+  },
+  {
+    "id": "IslandsPDABase1Desk",
+    "label": "Degasi Voice Log #2 - Storm!"
+  },
+  {
+    "id": "IslandsPDABase1bDesk",
+    "label": "Degasi Voice Log #1 - Habitation Location"
+  },
+  {
+    "id": "IslandsPDABase1Interior",
+    "label": "Paul Torgal's Log #1 - Marooned"
+  },
+  {
+    "id": "IslandsPDABase1a",
+    "label": "Bart Torgal's Log #3 - Return From the Deep"
+  },
+  {
+    "id": "IslandsPDAExterior",
+    "label": "Degasi Voice Log #3 - Aftermath"
+  },
+  {
+    "id": "JellyPDABrokenCorridor",
+    "label": "Degasi Voice Log #5 - Pecking Order"
+  },
+  {
+    "id": "JellyPDARoom1Desk",
+    "label": "Bart Torgal's Log #1 - This World"
+  },
+  {
+    "id": "JellyPDARoom1Locker",
+    "label": "Paul Torgal's Log #2 - Dilemma"
+  },
+  {
+    "id": "JellyPDAObservatory",
+    "label": "Bart Torgal's Log #2 - Stalker Teeth"
+  },
+  {
+    "id": "JellyPDARoom2Desk",
+    "label": "Degasi Voice Log #6 - Deeper?!"
+  },
+  {
+    "id": "JellyPDARoom2Locker",
+    "label": "Degasi Voice Log #4 - Curious Discovery"
+  },
+  {
+    "id": "JellyPDAExterior",
+    "label": "Marguerit Maida's Log - Speaking Freely"
+  },
+  {
+    "id": "MapRoom",
+    "label": "Scanner Room"
+  },
+  {
+    "id": "Lifepod1",
+    "label": "Lifepod 2 Chief Technical Officer Yu's Voicelog (T+2min)"
+  },
+  {
+    "id": "Lifepod2",
+    "label": "Lifepod 12 Medical Officer Danby's Crew Log"
+  },
+  {
+    "id": "Lifepod3",
+    "label": "Lifepod 3 Crew Log"
+  },
+  {
+    "id": "Lifepod4",
+    "label": "Lifepod 13 Emissary's Voicelog"
+  },
+  {
+    "id": "LifepodRandom",
+    "label": "Lifepod 7 Crew Log"
+  },
+  {
+    "id": "LifepodSeaglide",
+    "label": "Lifepod 17 Crew Log"
+  },
+  {
+    "id": "LifepodKeenDialog",
+    "label": "Lifepod 19 Second Officer Keen's Voicelog"
+  },
+  {
+    "id": "LifepodKeenLog",
+    "label": "Lifepod 19 Second Officer Keen's Crew Log"
+  },
+  {
+    "id": "RendezvousFloatingIsland",
+    "label": "Rendezvous Voicelog"
+  },
+  {
+    "id": "LifepodCrashZone1",
+    "label": "Lifepod 6 Crew Log #1"
+  },
+  {
+    "id": "LifepodCrashZone2",
+    "label": "Lifepod 6 Crew Log #2"
+  },
+  {
+    "id": "LifepodCTODialog1",
+    "label": "REMOVED"
+  },
+  {
+    "id": "LifepodCTODialog2",
+    "label": "REMOVED"
+  },
+  {
+    "id": "LifepodCTOLog1",
+    "label": "REMOVED"
+  },
+  {
+    "id": "LifepodCTOLog2",
+    "label": "REMOVED"
+  },
+  {
+    "id": "LifepodDecoy",
+    "label": "Lifepod 4 Crew Log"
+  },
+  {
+    "id": "SeaTreader",
+    "label": "Sea Treader Leviathan"
+  },
+  {
+    "id": "ReaperLeviathan",
+    "label": "Reaper Leviathan"
+  },
+  {
+    "id": "Crabsquid",
+    "label": "Crabsquid"
+  },
+  {
+    "id": "Warper",
+    "label": "Warper"
+  },
+  {
+    "id": "Aurora_Office_Terminal1",
+    "label": "Alterra Launches the Aurora"
+  },
+  {
+    "id": "Aurora_Office_PDA1",
+    "label": "Notes to self"
+  },
+  {
+    "id": "Aurora_Cargo_PDA1",
+    "label": "Aurora Engineering Drone - Log"
+  },
+  {
+    "id": "Aurora_Locker_PDA1",
+    "label": "Aurora Auxiliary Mission Orders"
+  },
+  {
+    "id": "Aurora_Locker_PDA2",
+    "label": "Sweet Offer"
+  },
+  {
+    "id": "Aurora_Living_Area_PDA1",
+    "label": "Trans-Gov Profile: Alterra Corp."
+  },
+  {
+    "id": "Aurora_Living_Area_PDA2",
+    "label": "Responsible Autonomous Relationships"
+  },
+  {
+    "id": "Aurora_Living_Area_PDA2b",
+    "label": "Relationship Contract Legal Recording"
+  },
+  {
+    "id": "Aurora_Living_Area_PDA3",
+    "label": "Today's Menu"
+  },
+  {
+    "id": "InnerBiomeWreckLore1",
+    "label": "Degasi Crew Manifest: Paul Torgal"
+  },
+  {
+    "id": "InnerBiomeWreckLore2",
+    "label": "Degasi Crew Manifest: Bart Torgal"
+  },
+  {
+    "id": "InnerBiomeWreckLore3",
+    "label": "Degasi Crew Manifest: Marguerit Maida"
+  },
+  {
+    "id": "InnerBiomeWreckLore4",
+    "label": "Alterra Citizen Testimonials"
+  },
+  {
+    "id": "InnerBiomeWreckLore5",
+    "label": "Trans-Gov Profile: Mongolian Independent States"
+  },
+  {
+    "id": "InnerBiomeWreckLore6",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "InnerBiomeWreckLore7",
+    "label": "Aurora Scanner Room Voice Log"
+  },
+  {
+    "id": "InnerBiomeWreckLore9",
+    "label": "Unificationism"
+  },
+  {
+    "id": "OuterBiomeWreckLore1",
+    "label": "VR Suite Log"
+  },
+  {
+    "id": "OuterBiomeWreckLore2",
+    "label": "Alterra Alms Pamphlet"
+  },
+  {
+    "id": "OuterBiomeWreckLore3",
+    "label": "The Charter"
+  },
+  {
+    "id": "OuterBiomeWreckLore4",
+    "label": "What Can We Learn From the Hive Mind of Strader VI?"
+  },
+  {
+    "id": "OuterBiomeWreckLore5",
+    "label": "Corporate Profile: Torgal Corp."
+  },
+  {
+    "id": "OuterBiomeWreckLore6",
+    "label": "Join Alterra's Board of Directors"
+  },
+  {
+    "id": "OuterBiomeWreckLore9",
+    "label": "Surveillance Log, Leisure Deck B"
+  },
+  {
+    "id": "OuterBiomeWreckLore10",
+    "label": "Profitability Projections"
+  },
+  {
+    "id": "Cyclops",
+    "label": "Cyclops"
+  },
+  {
+    "id": "Exo",
+    "label": "Prawn Suit (Mk.III)"
+  },
+  {
+    "id": "WaterPark",
+    "label": "Alien Containment"
+  },
+  {
+    "id": "NuclearReactor",
+    "label": "Nuclear Reactor"
+  },
+  {
+    "id": "ThermalPlant",
+    "label": "Thermal Plant"
+  },
+  {
+    "id": "Bioreactor",
+    "label": "Bioreactor"
+  },
+  {
+    "id": "LaserCutter",
+    "label": "Laser Cutter"
+  },
+  {
+    "id": "Welder",
+    "label": "Repair Tool"
+  },
+  {
+    "id": "Seaglide",
+    "label": "Seaglide"
+  },
+  {
+    "id": "Crabsnake",
+    "label": "Crabsnake"
+  },
+  {
+    "id": "Ampeel",
+    "label": "Ampeel"
+  },
+  {
+    "id": "Oculus",
+    "label": "Oculus"
+  },
+  {
+    "id": "Boneshark",
+    "label": "Boneshark"
+  },
+  {
+    "id": "Exo_Code_LifepodPDA",
+    "label": "Non-essential Systems Maintenance Logs"
+  },
+  {
+    "id": "Exo_Code_WreckPDA",
+    "label": "Robotics Bay Security"
+  },
+  {
+    "id": "Aurora_DriveRoom_Terminal1",
+    "label": "Aurora Black Box Data"
+  },
+  {
+    "id": "Aurora_RingRoom_Terminal1",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "Aurora_RingRoom_Terminal2",
+    "label": "Alterra Safety Instructions"
+  },
+  {
+    "id": "Aurora_RingRoom_Terminal3",
+    "label": "Alterra HQ - Last Recorded Transmissions"
+  },
+  {
+    "id": "Aurora_RingRoom_Code_PDA",
+    "label": "Lab Access"
+  },
+  {
+    "id": "AuroraEngineeringLog",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "InnerBiomeWreckLore8",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "OuterBiomeWreckLore7",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "OuterBiomeWreckLore8",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "DeepPDABase3",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "DeepPDA1",
+    "label": "Degasi Voice Log #7 - Malady"
+  },
+  {
+    "id": "DeepPDA2",
+    "label": "Degasi Voice Log #8 - Risk Taking"
+  },
+  {
+    "id": "DeepPDA3",
+    "label": "Degasi Voice Log #9 - Disaster"
+  },
+  {
+    "id": "DeepPDA4",
+    "label": "Paul Torgal's Log #3 - The End"
+  },
+  {
+    "id": "Precursor_Gun_DataDownload1",
+    "label": "Alien Data Terminal"
+  },
+  {
+    "id": "Precursor_Gun_DataDownload2",
+    "label": "Enforcement Platform Schematic"
+  },
+  {
+    "id": "Precursor_Gun_DataDownload3",
+    "label": "Alien Facility Locations"
+  },
+  {
+    "id": "Precursor_LostRiverBase_DataDownload1",
+    "label": "Specimen Research Data"
+  },
+  {
+    "id": "Precursor_LostRiverBase_DataDownload2",
+    "label": "Kharaa Contagion Profile"
+  },
+  {
+    "id": "Precursor_LostRiverBase_DataDownload3",
+    "label": "Damage report"
+  },
+  {
+    "id": "Precursor_LostRiverBase_DataDownload4",
+    "label": "Bacterial Infection Report"
+  },
+  {
+    "id": "Precursor_LavaCastleBase_ThermalPlant",
+    "label": "Alien Thermal Plant"
+  },
+  {
+    "id": "Precursor_LavaCastleBase_ThermalPlant2",
+    "label": "Primary Containment Facility"
+  },
+  {
+    "id": "Precursor_LavaCastleBase_ThermalPlant3",
+    "label": "Fossil Data"
+  },
+  {
+    "id": "Precursor_LavaCastleBase_DataDownload1",
+    "label": "Ion Power Data"
+  },
+  {
+    "id": "Precursor_SparseReefCache_DataDownload1",
+    "label": "Alien Sanctuary Alpha"
+  },
+  {
+    "id": "Precursor_Cache_DataDownload2",
+    "label": "Alien Sanctuary Beta"
+  },
+  {
+    "id": "Precursor_Cache_DataDownload3",
+    "label": "Alien Biological History"
+  },
+  {
+    "id": "Precursor_Cache_DataDownloadLostRiver",
+    "label": "Fauna Reproductive Data"
+  },
+  {
+    "id": "LavaLarva",
+    "label": "Lava Larva"
+  },
+  {
+    "id": "LavaLizard",
+    "label": "Lava Lizard"
+  },
+  {
+    "id": "SeaDragon",
+    "label": "Sea Dragon Leviathan"
+  },
+  {
+    "id": "GhostRay",
+    "label": "Ghostray"
+  },
+  {
+    "id": "FireRay",
+    "label": "Crimson Ray"
+  },
+  {
+    "id": "TreeCoveTree",
+    "label": "Giant Cove Tree"
+  },
+  {
+    "id": "Kyanite",
+    "label": "Kyanite"
+  },
+  {
+    "id": "IonCrystal",
+    "label": "Ion Cube"
+  },
+  {
+    "id": "LifepodCaptainsQuartersCode",
+    "label": "CORRUPTED"
+  },
+  {
+    "id": "SpineEel",
+    "label": "River Prowler"
+  },
+  {
+    "id": "StillSuit",
+    "label": "Water Filtration Suit"
+  },
+  {
+    "id": "RadSuit",
+    "label": "Radiation Suit"
+  },
+  {
+    "id": "ReinforcedSuit",
+    "label": "Reinforced Dive Suit"
+  },
+  {
+    "id": "PrecursorEnergyCore",
+    "label": "Energy Core"
+  },
+  {
+    "id": "PrecursorKey_Purple",
+    "label": "Purple Tablet"
+  },
+  {
+    "id": "PrecursorKey_Blue",
+    "label": "Blue Tablet"
+  },
+  {
+    "id": "PrecursorKey_Orange",
+    "label": "Orange Tablet"
+  },
+  {
+    "id": "PrecursorKeyTerminal",
+    "label": "Forcefield Control Terminal"
+  },
+  {
+    "id": "PrecursorTeleporter",
+    "label": "Alien Arch"
+  },
+  {
+    "id": "PrecursorDroid",
+    "label": "Alien Robot"
+  },
+  {
+    "id": "Precursor_LostRiverBase_WarperScan",
+    "label": "Self-Warping Quarantine Enforcer Unit"
+  },
+  {
+    "id": "Precursor_LostRiverBase_GiantFishSkeleton",
+    "label": "Remains of Research Specimen"
+  },
+  {
+    "id": "Precursor_LostRiverBase_SeaDragonSkeleton",
+    "label": "Sea Dragon Skeleton"
+  },
+  {
+    "id": "Precursor_LostRiverBase_ScanningCableScan",
+    "label": "Research Probes"
+  },
+  {
+    "id": "Precursor_LostRiverBase_CaveSkeletonScan",
+    "label": "Ancient Fossilized Skeleton"
+  },
+  {
+    "id": "Precursor_Cache_LostRiverBonesScan",
+    "label": "Mixed Leviathan Fossils"
+  },
+  {
+    "id": "Precursor_Cache_LostRiverPlantCaseScan",
+    "label": "Alien Flora Research"
+  },
+  {
+    "id": "Precursor_Cache_LostRiverLabTable",
+    "label": "Research Equipment"
+  },
+  {
+    "id": "LavaEyeye",
+    "label": "Red Eyeye"
+  },
+  {
+    "id": "LavaBoomerang",
+    "label": "Magmarang"
+  },
+  {
+    "id": "BloodRoot",
+    "label": "Bloodroot"
+  },
+  {
+    "id": "Decoy",
+    "label": "Creature Decoy"
+  },
+  {
+    "id": "LavaZone_ReaperSkeleton",
+    "label": "Reaper Leviathan Skeleton"
+  },
+  {
+    "id": "PrecursorPrisonArtifact1",
+    "label": "Organic Matter Particulator"
+  },
+  {
+    "id": "PrecursorPrisonArtifact2",
+    "label": "Holographic Projector"
+  },
+  {
+    "id": "PrecursorPrisonArtifact3",
+    "label": "Rudimentary Tablet"
+  },
+  {
+    "id": "PrecursorPrisonArtifact4",
+    "label": "Tracking Implant"
+  },
+  {
+    "id": "PrecursorPrisonArtifact5",
+    "label": "Alien Carving"
+  },
+  {
+    "id": "PrecursorPrisonArtifact6",
+    "label": "Doomsday Device"
+  },
+  {
+    "id": "PrecursorPrisonArtifact7",
+    "label": "Alien Rifle"
+  },
+  {
+    "id": "PrecursorPrisonArtifact8",
+    "label": "Ancient Earth Blade"
+  },
+  {
+    "id": "PrecursorPrisonArtifact9",
+    "label": "Display Case"
+  },
+  {
+    "id": "PrecursorPrisonArtifact10",
+    "label": "Alien Statue"
+  },
+  {
+    "id": "PrecursorPrisonArtifact11",
+    "label": "Translation Device"
+  },
+  {
+    "id": "PrecursorPrisonArtifact12",
+    "label": "Alien Building Block"
+  },
+  {
+    "id": "PrecursorSurfacePipe",
+    "label": "Alien Vent"
+  },
+  {
+    "id": "Precursor_Prison_DataDownload1",
+    "label": "Enzyme 42 Project Data"
+  },
+  {
+    "id": "Precursor_Prison_DataDownload2",
+    "label": "Sea Emperor Leviathan Research Data"
+  },
+  {
+    "id": "Precursor_Prison_DataDownload3",
+    "label": "Ventilation Control"
+  },
+  {
+    "id": "PrecursorPipeRoomIncomingPipe",
+    "label": "Peepers Entering the Containment Facility"
+  },
+  {
+    "id": "PrecursorPipeRoomOutgoingPipe",
+    "label": "Enzyme Host Peepers Leaving the Containment Facility"
+  },
+  {
+    "id": "PrecursorPrisonLabEmperorFetus",
+    "label": "Sea Emperor Fetus"
+  },
+  {
+    "id": "PrecursorPrisonLabEmperorEgg",
+    "label": "Sea Emperor Egg Casing"
+  },
+  {
+    "id": "PrecursorPrisonAquariumPipe",
+    "label": "Aquarium Pipe Access Point"
+  },
+  {
+    "id": "PrecursorPrisonAquariumFinalTeleporter",
+    "label": "Aquarium Arch"
+  },
+  {
+    "id": "SeaEmperorLeviathan",
+    "label": "Sea Emperor Leviathan"
+  },
+  {
+    "id": "PrecursorPrisonAquariumIncubator",
+    "label": "Hatching Enzymes"
+  },
+  {
+    "id": "PrecursorPrisonAquariumIncubatorEggs",
+    "label": "The Sea Emperor's Eggs"
+  },
+  {
+    "id": "SeaEmperorEggHatchingEnzymes",
+    "label": "Hatching Enzymes Old"
+  },
+  {
+    "id": "SeaEmperorLifeCycle",
+    "label": "The Sea Emperor's Lifecycle"
+  },
+  {
+    "id": "SeaEmperorBaby",
+    "label": "Sea Emperor Juvenile"
+  },
+  {
+    "id": "SeaEmperorLeviathanEnzymeCloud",
+    "label": "Bacterial Vaccine"
+  },
+  {
+    "id": "PrecursorPrisonArtifact13",
+    "label": "Nanobots"
+  },
+  {
+    "id": "GhostLeviathan",
+    "label": "Ghost Leviathan"
+  },
+  {
+    "id": "GhostLeviathanJuvenile",
+    "label": "Ghost Leviathan Juvenile"
+  },
+  {
+    "id": "EarthenCoralTubes",
+    "label": "Earthen Coral Tubes"
+  },
+  {
+    "id": "CoralShellPlate",
+    "label": "Coral Shell Plate"
+  },
+  {
+    "id": "BigCoralTubes",
+    "label": "Giant Coral Tubes"
+  },
+  {
+    "id": "FloatingStones",
+    "label": "Anchor Pods"
+  },
+  {
+    "id": "BlueAmoeba",
+    "label": "Amoeboid"
+  },
+  {
+    "id": "RedTipRockThings",
+    "label": "Pyrocoral"
+  },
+  {
+    "id": "BlueTipLostRiverPlant",
+    "label": "Crab Claw Kelp"
+  },
+  {
+    "id": "BlueLostRiverLilly",
+    "label": "Brine Lily"
+  },
+  {
+    "id": "BlueprintCorruption",
+    "label": "WARNING: Blueprint Database Corrupted"
+  },
+  {
+    "id": "LargeFloater",
+    "label": "Ancient Floater"
+  },
+  {
+    "id": "SecondarySystems",
+    "label": "4546B Environment Scan"
+  },
+  {
+    "id": "Aurora_BreachScan",
+    "label": "Drive Core Shielding Breach"
+  },
+  {
+    "id": "Void",
+    "label": "Crater Edge"
+  },
+  {
+    "id": "LostRiver_BonesfieldHugeSkeleton",
+    "label": "Gargantuan Fossil"
+  },
+  {
+    "id": "Precursor_LostRiverBase_StructuralDamage",
+    "label": "Alien Facility Structural Damage"
+  },
+  {
+    "id": "Precursor_LostRiverBase_BrokenAnchor",
+    "label": "Damaged Anchor Cable"
+  },
+  {
+    "id": "Precursor_LostRiverBase_Rays",
+    "label": "Ray Species on 4546B"
+  },
+  {
+    "id": "Precursor_LostRiverBase_Bones",
+    "label": "Rib Cage Samples"
+  },
+  {
+    "id": "Precursor_LostRiverBase_ProductionLine",
+    "label": "Production Line"
+  },
+  {
+    "id": "Precursor_LostRiverBase_WarperParts",
+    "label": "Warper Parts"
+  },
+  {
+    "id": "Precursor_LostRiverBase_LeviathanEggShellScan",
+    "label": "Sea Dragon Egg"
+  },
+  {
+    "id": "PrecursorPrisonIonGenerator",
+    "label": "Ion Cube Fabricator"
+  },
+  {
+    "id": "Scanner",
+    "label": "Handheld Scanner"
+  },
+  {
+    "id": "SolarPanel",
+    "label": "Solar Panel"
+  },
+  {
+    "id": "Fabricator",
+    "label": "Fabricator"
+  },
+  {
+    "id": "Aquarium",
+    "label": "Aquarium"
+  },
+  {
+    "id": "MVB",
+    "label": "Mobile Vehicle Bay"
+  },
+  {
+    "id": "BulkheadDoor",
+    "label": "Bulkhead Door"
+  },
+  {
+    "id": "Airpumps",
+    "label": "Air Pumps"
+  },
+  {
+    "id": "RepulsionCannon",
+    "label": "Repulsion Cannon"
+  },
+  {
+    "id": "VMS",
+    "label": "Vehicle Upgrade Console"
+  },
+  {
+    "id": "AluminiumOxide",
+    "label": "Ruby"
+  },
+  {
+    "id": "Mercury",
+    "label": "Mercury Ore"
+  },
+  {
+    "id": "Magnetite",
+    "label": "Magnetite"
+  },
+  {
+    "id": "Nickel",
+    "label": "Nickel Ore"
+  },
+  {
+    "id": "Uraninite",
+    "label": "Uraninite"
+  },
+  {
+    "id": "Sulphur",
+    "label": "Crystalline Sulfur"
+  },
+  {
+    "id": "GiantKooshBush",
+    "label": "Giant Bulb Bush"
+  },
+  {
+    "id": "Skyray",
+    "label": "Skyray"
+  },
+  {
+    "id": "DataCoil",
+    "label": "Aurora Data Coil"
+  },
+  {
+    "id": "Rocket",
+    "label": "Neptune Escape Rocket"
+  },
+  {
+    "id": "PrisonOutposts",
+    "label": "Sonic Deterrent"
+  },
+  {
+    "id": "CaptainCode",
+    "label": "High Security Terminal - Captain's Quarters"
+  },
+  {
+    "id": "CaptainPDA",
+    "label": "Captain's Log"
+  },
+  {
+    "id": "Infection",
+    "label": "Specimen with Symptoms of Infection"
+  },
+  {
+    "id": "JellyPDABreadcrumb",
+    "label": "Environment Log"
+  },
+  {
+    "id": "HeroPeeper",
+    "label": "Enzyme Host Peeper"
+  },
+  {
+    "id": "PrecursorPrisonEggChamberEmperorEgg",
+    "label": "In-tact Emperor Egg"
+  },
+  {
+    "id": "AquariumPeeper",
+    "label": "Peepers Inside the Containment Facility"
+  },
+  {
+    "id": "CuredCreature",
+    "label": "Specimen with Infection Symptoms Inhibited"
+  },
+  {
+    "id": "Spinefish",
+    "label": "Spinefish"
+  },
+  {
+    "id": "Blighter",
+    "label": "Blighter"
+  },
+  {
+    "id": "Rockgrub",
+    "label": "Rockgrub"
+  },
+  {
+    "id": "BloodCrawler",
+    "label": "Blood Crawler"
+  },
+  {
+    "id": "TimeCapsule",
+    "label": "Time Capsule"
+  },
+  {
+    "id": "UnknownEgg",
+    "label": "Alien Eggs"
+  },
+  {
+    "id": "RaysAdvanced",
+    "label": "Alpha Ray"
+  },
+  {
+    "id": "RadioRadiationSuitNoSignalAltDatabank",
+    "label": "Lifepod 4 Transmission Origin"
+  },
+  {
+    "id": "RadioMushroom24NoSignalAltDatabank",
+    "label": "Lifepod 13 Transmission Origin"
+  },
+  {
+    "id": "RadioGrassy25NoSignalAltDatabank",
+    "label": "Lifepod 3 Transmission Origin"
+  },
+  {
+    "id": "RadioShallows22NoSignalAltDatabank",
+    "label": "Lifepod 6 Transmission Origin"
+  },
+  {
+    "id": "RadioKelp28NoSignalAltDatabank",
+    "label": "Lifepod 7 Transmission Origin"
+  }
+]

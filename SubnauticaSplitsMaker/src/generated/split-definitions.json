@@ -1,0 +1,224 @@
+[
+  {
+    "id": "None",
+    "description": "None",
+    "tooltip": "None",
+    "kind": "typed-none"
+  },
+  {
+    "id": "Inventory",
+    "description": "Inventory",
+    "tooltip": "Splits when you pickup/drop a certain item",
+    "kind": "typed-inventory"
+  },
+  {
+    "id": "Blueprint",
+    "description": "Blueprint",
+    "tooltip": "Splits when you have a certain blueprint unlocked",
+    "kind": "typed-blueprint"
+  },
+  {
+    "id": "Encyclopedia",
+    "description": "Encyclopedia",
+    "tooltip": "Splits when you have a certain entry in the encyclopedia unlocked",
+    "kind": "typed-encyclopedia"
+  },
+  {
+    "id": "Biome",
+    "description": "Biome",
+    "tooltip": "Splits when you have enter a certain biome from a certain biome",
+    "kind": "typed-biome"
+  },
+  {
+    "id": "Craft",
+    "description": "Craft",
+    "tooltip": "Splits when you start crafting a certain item from a crafting menu",
+    "kind": "typed-craft"
+  },
+  {
+    "id": "RocketSplit",
+    "description": "Rocket Launch",
+    "tooltip": "Splits when you start the Neptune Rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "PortalSplit",
+    "description": "Prison Portal",
+    "tooltip": "Splits when you enter the prison aquarium portal for the first time",
+    "kind": "prefab"
+  },
+  {
+    "id": "HatchSplit",
+    "description": "Hatch Eggs",
+    "tooltip": "Splits when you hatch the eggs in the prison aquarium",
+    "kind": "prefab"
+  },
+  {
+    "id": "CureSplit",
+    "description": "Cure",
+    "tooltip": "Splits when you cure yourself",
+    "kind": "prefab"
+  },
+  {
+    "id": "NeptuneLaunchPlatform",
+    "description": "Build Neptune Launch Platform",
+    "tooltip": "Splits when you build the Neptune Launch Platform",
+    "kind": "prefab"
+  },
+  {
+    "id": "GantrySplit",
+    "description": "Build Gantry Section",
+    "tooltip": "Splits when you build the gantry section of the Neptune Rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "BoostersSplit",
+    "description": "Build Boosters Section",
+    "tooltip": "Splits when you build the boosters section of the Neptune Rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "FuelReservesSplit",
+    "description": "Build Fuel Reserves Section",
+    "tooltip": "Splits when you build the fuel reserves section of the Neptune Rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "MountainDescendSplit",
+    "description": "Descend at Mountain",
+    "tooltip": "Splits when you descend under the arch after getting out of bounds",
+    "kind": "prefab"
+  },
+  {
+    "id": "PCFTabletSplit",
+    "description": "Insert PCF Tablet",
+    "tooltip": "Splits when you insert the tablet at the PCF entrance",
+    "kind": "prefab"
+  },
+  {
+    "id": "PCFPoolSplit",
+    "description": "Enter PCF Pool",
+    "tooltip": "Splits when you enter the prison aquarium the normal way",
+    "kind": "prefab"
+  },
+  {
+    "id": "GunDeactivationSplit",
+    "description": "Deactivate Gun",
+    "tooltip": "Splits when you deactivate the gun",
+    "kind": "prefab"
+  },
+  {
+    "id": "SGLShallowsSplit",
+    "description": "Glitchless Shallows Split",
+    "tooltip": "Split when you exit the main base with an extra High Capacity O2 tank in your inventory",
+    "kind": "prefab"
+  },
+  {
+    "id": "SGLBaseSplit",
+    "description": "Glitchless Base Split",
+    "tooltip": "Splits when you enter the main base near the seaglide wreck for the first time",
+    "kind": "prefab"
+  },
+  {
+    "id": "BaseDeathSplit",
+    "description": "Base Death Split (includes Clip A and Clip C)",
+    "tooltip": "Splits when you die next to the main base (includes Clip A and Clip C)",
+    "kind": "prefab"
+  },
+  {
+    "id": "GunDeathSplit",
+    "description": "Gun Death",
+    "tooltip": "Splits when you die in the gun room",
+    "kind": "prefab"
+  },
+  {
+    "id": "AuroraDeathSplit",
+    "description": "Aurora Death",
+    "tooltip": "Splits when you die in the Aurora",
+    "kind": "prefab"
+  },
+  {
+    "id": "SparseDeathSplit",
+    "description": "Sparse Death",
+    "tooltip": "Splits when you die in the biomes: Sea Treader Path or Sparse Reef",
+    "kind": "prefab"
+  },
+  {
+    "id": "DeathSplit",
+    "description": "Death",
+    "tooltip": "Splits when you die",
+    "kind": "prefab"
+  },
+  {
+    "id": "IonDeathSplit",
+    "description": "Alien Thermal Plant Death",
+    "tooltip": "Splits when you die in the Alien Thermal Plant",
+    "kind": "prefab"
+  },
+  {
+    "id": "IonUnstuckSplit",
+    "description": "Alien Thermal Plant Unstuck",
+    "tooltip": "Splits when you unstuck in the Ion BP room",
+    "kind": "prefab"
+  },
+  {
+    "id": "IonUnlockSplit",
+    "description": "Unlock Ion Blueprints",
+    "tooltip": "Splits when you unlock the Ion BP",
+    "kind": "prefab"
+  },
+  {
+    "id": "RocketUnlockSplit",
+    "description": "Unlock Rocket",
+    "tooltip": "Splits when you unlock the Neptune Rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "LeaveKelpForestSplit",
+    "description": "Leave Kelp Forest (Alt. Tooth Split)",
+    "tooltip": "Splits when you leave the Kelp Forest with one or more Creepvine samples",
+    "kind": "prefab"
+  },
+  {
+    "id": "FourToothSplit",
+    "description": "Collect 4 Stalker Teeth",
+    "tooltip": "Splits when you collect four Stalker teeth",
+    "kind": "prefab"
+  },
+  {
+    "id": "UpperTabletSplit",
+    "description": "Collect Upper Tablet",
+    "tooltip": "Splits when you grab the purple tablet above the Alien Gun Entrence",
+    "kind": "prefab"
+  },
+  {
+    "id": "SparseBiomeSplit",
+    "description": "Sparse Biome Change",
+    "tooltip": "Splits when the biome changes from Sparse to Shallows or Kelp Forest",
+    "kind": "prefab"
+  },
+  {
+    "id": "AuroraBiomeSplit",
+    "description": "Aurora Biome Change",
+    "tooltip": "Splits when the biome changes from Aurora to Shallows or Kelp Forest",
+    "kind": "prefab"
+  },
+  {
+    "id": "AuroraExitSplit",
+    "description": "Exit Aurora at Patch Hole",
+    "tooltip": "Splits when you exit the Aurora through the old patch hole after unlocking the rocket",
+    "kind": "prefab"
+  },
+  {
+    "id": "HCGSparseSplit",
+    "description": "HCG Sparse Split (includes clip A and C)",
+    "tooltip": "Splits when you enter the main base with a ruby (includes clip A and C)",
+    "kind": "prefab"
+  },
+  {
+    "id": "ReactorCoreRepairSplit",
+    "description": "Repair Reactor Core",
+    "tooltip": "Splits when you repair the aurora reactor core",
+    "kind": "prefab"
+  }
+]

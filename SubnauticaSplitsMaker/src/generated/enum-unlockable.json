@@ -1,0 +1,906 @@
+[
+  {
+    "id": "Titanium",
+    "label": "Titanium"
+  },
+  {
+    "id": "TitaniumIngot",
+    "label": "Titanium ingot"
+  },
+  {
+    "id": "Silicone",
+    "label": "Silicone rubber"
+  },
+  {
+    "id": "Glass",
+    "label": "Glass"
+  },
+  {
+    "id": "Bleach",
+    "label": "Bleach"
+  },
+  {
+    "id": "Lead",
+    "label": "Lead"
+  },
+  {
+    "id": "CopperWire",
+    "label": "Copper wire"
+  },
+  {
+    "id": "Battery",
+    "label": "Battery"
+  },
+  {
+    "id": "ComputerChip",
+    "label": "Computer chip"
+  },
+  {
+    "id": "WiringKit",
+    "label": "Wiring kit"
+  },
+  {
+    "id": "DisinfectedWater",
+    "label": "Disinfected water"
+  },
+  {
+    "id": "Tank",
+    "label": "Standard O₂ Tank"
+  },
+  {
+    "id": "Fins",
+    "label": "Fins"
+  },
+  {
+    "id": "FirstAidKit",
+    "label": "First aid kit"
+  },
+  {
+    "id": "Pipe",
+    "label": "Pipe"
+  },
+  {
+    "id": "Scanner",
+    "label": "Handheld Scanner"
+  },
+  {
+    "id": "Flashlight",
+    "label": "Flashlight"
+  },
+  {
+    "id": "Knife",
+    "label": "Survival knife"
+  },
+  {
+    "id": "Flare",
+    "label": "Flare"
+  },
+  {
+    "id": "Builder",
+    "label": "Habitat Builder"
+  },
+  {
+    "id": "Welder",
+    "label": "Repair Tool"
+  },
+  {
+    "id": "SmallStorage",
+    "label": "Waterproof Locker"
+  },
+  {
+    "id": "Radio",
+    "label": "Radio"
+  },
+  {
+    "id": "Aquarium",
+    "label": "Aquarium"
+  },
+  {
+    "id": "Fabricator",
+    "label": "Fabricator"
+  },
+  {
+    "id": "Locker",
+    "label": "Locker"
+  },
+  {
+    "id": "SmallLocker",
+    "label": "Wall locker"
+  },
+  {
+    "id": "Sign",
+    "label": "Sign"
+  },
+  {
+    "id": "MedicalCabinet",
+    "label": "Medical Kit Fabricator"
+  },
+  {
+    "id": "BaseHatch",
+    "label": "Hatch"
+  },
+  {
+    "id": "BaseCorridorI",
+    "label": "I compartment"
+  },
+  {
+    "id": "BaseCorridorL",
+    "label": "L compartment"
+  },
+  {
+    "id": "BaseCorridorT",
+    "label": "T compartment"
+  },
+  {
+    "id": "BaseCorridorX",
+    "label": "X compartment"
+  },
+  {
+    "id": "BaseWindow",
+    "label": "Window"
+  },
+  {
+    "id": "BaseReinforcement",
+    "label": "Reinforcement"
+  },
+  {
+    "id": "BaseFoundation",
+    "label": "Foundation"
+  },
+  {
+    "id": "BaseLadder",
+    "label": "Ladder"
+  },
+  {
+    "id": "BaseCorridorGlassI",
+    "label": "I Glass compartment"
+  },
+  {
+    "id": "BaseCorridorGlassL",
+    "label": "L Glass compartment"
+  },
+  {
+    "id": "BaseConnector",
+    "label": "Vertical connector"
+  },
+  {
+    "id": "Uranium",
+    "label": "Uranium"
+  },
+  {
+    "id": "FireExtinguisher",
+    "label": "Fire extinguisher"
+  },
+  {
+    "id": "BasePipeConnector",
+    "label": "Base-attached air pump"
+  },
+  {
+    "id": "PipeSurfaceFloater",
+    "label": "Floating air pump"
+  },
+  {
+    "id": "SolarPanel",
+    "label": "Solar Panel"
+  },
+  {
+    "id": "FilteredWater",
+    "label": "Filtered water"
+  },
+  {
+    "id": "BaseFiltrationMachine",
+    "label": "Water filtration machine"
+  },
+  {
+    "id": "BaseObservatory",
+    "label": "Observatory"
+  },
+  {
+    "id": "EnameledGlass",
+    "label": "Enameled glass"
+  },
+  {
+    "id": "BaseRoom",
+    "label": "Multipurpose room"
+  },
+  {
+    "id": "BaseUpgradeConsole",
+    "label": "Vehicle upgrade console"
+  },
+  {
+    "id": "VehicleHullModule1",
+    "label": "Seamoth depth module MK1"
+  },
+  {
+    "id": "VehiclePowerUpgradeModule",
+    "label": "Engine efficiency module"
+  },
+  {
+    "id": "SeamothSolarCharge",
+    "label": "Seamoth solar charger"
+  },
+  {
+    "id": "VehicleStorageModule",
+    "label": "Storage module"
+  },
+  {
+    "id": "SeamothElectricalDefense",
+    "label": "Seamoth perimeter defense system"
+  },
+  {
+    "id": "SeamothTorpedoModule",
+    "label": "Seamoth torpedo system"
+  },
+  {
+    "id": "SeamothSonarModule",
+    "label": "Seamoth sonar"
+  },
+  {
+    "id": "VehicleArmorPlating",
+    "label": "Hull reinforcement"
+  },
+  {
+    "id": "WhirlpoolTorpedo",
+    "label": "Vortex torpedo"
+  },
+  {
+    "id": "VehicleHullModule2",
+    "label": "Seamoth depth module MK2"
+  },
+  {
+    "id": "VehicleHullModule3",
+    "label": "Seamoth depth module MK3"
+  },
+  {
+    "id": "GasTorpedo",
+    "label": "Gas torpedo"
+  },
+  {
+    "id": "ExosuitThermalReactorModule",
+    "label": "Prawn suit thermal reactor"
+  },
+  {
+    "id": "ExosuitJetUpgradeModule",
+    "label": "Prawn suit jump jet upgrade"
+  },
+  {
+    "id": "ExoHullModule1",
+    "label": "Prawn suit depth module MK1"
+  },
+  {
+    "id": "ExoHullModule2",
+    "label": "Prawn suit depth module MK2"
+  },
+  {
+    "id": "Polyaniline",
+    "label": "Polyaniline"
+  },
+  {
+    "id": "HydrochloricAcid",
+    "label": "Hydrochloric acid"
+  },
+  {
+    "id": "BaseWaterPark",
+    "label": "Alien containment"
+  },
+  {
+    "id": "Bench",
+    "label": "Bench"
+  },
+  {
+    "id": "Constructor",
+    "label": "Mobile vehicle bay"
+  },
+  {
+    "id": "CyclopsBridgeBlueprint",
+    "label": "Cyclops Bridge Blueprint"
+  },
+  {
+    "id": "CyclopsDockingBayBlueprint",
+    "label": "Cyclops Docking Bay Blueprint"
+  },
+  {
+    "id": "CyclopsEngineBlueprint",
+    "label": "Cyclops Engine Blueprint"
+  },
+  {
+    "id": "CyclopsHullBlueprint",
+    "label": "Cyclops Hull Blueprint"
+  },
+  {
+    "id": "Exosuit",
+    "label": "Prawn suit"
+  },
+  {
+    "id": "PlasteelIngot",
+    "label": "Plasteel ingot"
+  },
+  {
+    "id": "Cyclops",
+    "label": "Cyclops"
+  },
+  {
+    "id": "FarmingTray",
+    "label": "Exterior Growbed"
+  },
+  {
+    "id": "LEDLight",
+    "label": "Light Stick"
+  },
+  {
+    "id": "BaseMoonpool",
+    "label": "Moonpool"
+  },
+  {
+    "id": "PlanterBox",
+    "label": "Interior Growbed"
+  },
+  {
+    "id": "PlanterPot",
+    "label": "Basic plant pot"
+  },
+  {
+    "id": "PlanterShelf",
+    "label": "Plant shelf"
+  },
+  {
+    "id": "PictureFrame",
+    "label": "Picture Frame"
+  },
+  {
+    "id": "PowerTransmitter",
+    "label": "Power transmitter"
+  },
+  {
+    "id": "PropulsionCannon",
+    "label": "Propulsion Cannon"
+  },
+  {
+    "id": "ReinforcedDiveSuit",
+    "label": "Reinforced dive suit"
+  },
+  {
+    "id": "HullReinforcementModule",
+    "label": "Cyclops pressure compensator"
+  },
+  {
+    "id": "Seaglide",
+    "label": "Seaglide"
+  },
+  {
+    "id": "Seamoth",
+    "label": "Seamoth"
+  },
+  {
+    "id": "StasisRifle",
+    "label": "Stasis Rifle"
+  },
+  {
+    "id": "Techlight",
+    "label": "Floodlight"
+  },
+  {
+    "id": "ThermalPlant",
+    "label": "Thermal Plant"
+  },
+  {
+    "id": "Transfuser",
+    "label": "Transfuser"
+  },
+  {
+    "id": "Workbench",
+    "label": "Modification station"
+  },
+  {
+    "id": "HeatBlade",
+    "label": "Thermoblade"
+  },
+  {
+    "id": "BasePlanter",
+    "label": "Planters & Pots"
+  },
+  {
+    "id": "Spotlight",
+    "label": "Spotlight"
+  },
+  {
+    "id": "StarshipDesk",
+    "label": "Desk"
+  },
+  {
+    "id": "StarshipChair",
+    "label": "Swivel chair"
+  },
+  {
+    "id": "PlanterPot2",
+    "label": "Composite plant pot"
+  },
+  {
+    "id": "PlanterPot3",
+    "label": "Chic plant pot"
+  },
+  {
+    "id": "BaseMapRoom",
+    "label": "Scanner room"
+  },
+  {
+    "id": "MapRoomUpgradeScanRange",
+    "label": "Scanner room range upgrade"
+  },
+  {
+    "id": "MapRoomUpgradeScanSpeed",
+    "label": "Scanner room speed upgrade"
+  },
+  {
+    "id": "MapRoomHUDChip",
+    "label": "Scanner room HUD chip"
+  },
+  {
+    "id": "MapRoomCamera",
+    "label": "Camera drone"
+  },
+  {
+    "id": "StarshipChair2",
+    "label": "Office chair"
+  },
+  {
+    "id": "StarshipChair3",
+    "label": "Command chair"
+  },
+  {
+    "id": "BaseBioReactor",
+    "label": "Bioreactor"
+  },
+  {
+    "id": "BaseNuclearReactor",
+    "label": "Nuclear reactor"
+  },
+  {
+    "id": "ReactorRod",
+    "label": "Reactor rod"
+  },
+  {
+    "id": "BarTable",
+    "label": "Bar table"
+  },
+  {
+    "id": "Trashcans",
+    "label": "Trash can"
+  },
+  {
+    "id": "LabTrashcan",
+    "label": "Nuclear waste disposal"
+  },
+  {
+    "id": "VendingMachine",
+    "label": "Vending machine"
+  },
+  {
+    "id": "LabCounter",
+    "label": "Counter"
+  },
+  {
+    "id": "SingleWallShelf",
+    "label": "Single wall shelf"
+  },
+  {
+    "id": "WallShelves",
+    "label": "Wall shelves"
+  },
+  {
+    "id": "Bed1",
+    "label": "Basic Double bed"
+  },
+  {
+    "id": "Bed2",
+    "label": "Quilted double bed"
+  },
+  {
+    "id": "NarrowBed",
+    "label": "Single bed"
+  },
+  {
+    "id": "PowerCellCharger",
+    "label": "Power cell charger"
+  },
+  {
+    "id": "BatteryCharger",
+    "label": "Battery charger"
+  },
+  {
+    "id": "BaseBulkhead",
+    "label": "Bulkhead"
+  },
+  {
+    "id": "ExosuitDrillArmModule",
+    "label": "Prawn suit drill arm"
+  },
+  {
+    "id": "ExosuitGrapplingArmModule",
+    "label": "Prawn suit grappling arm"
+  },
+  {
+    "id": "ExosuitTorpedoArmModule",
+    "label": "Prawn suit torpedo arm"
+  },
+  {
+    "id": "ExosuitPropulsionArmModule",
+    "label": "Prawn suit propulsion cannon"
+  },
+  {
+    "id": "RocketBase",
+    "label": "Neptune Launch Platform"
+  },
+  {
+    "id": "PrecursorKey_Purple",
+    "label": "Purple Tablet"
+  },
+  {
+    "id": "PrecursorKey_Blue",
+    "label": "Blue Tablet"
+  },
+  {
+    "id": "PrecursorKey_Orange",
+    "label": "Orange Tablet"
+  },
+  {
+    "id": "CoffeeVendingMachine",
+    "label": "Coffee vending machine"
+  },
+  {
+    "id": "CyclopsShieldModule",
+    "label": "Cyclops shield generator"
+  },
+  {
+    "id": "CyclopsSonarModule",
+    "label": "Cyclops sonar upgrade"
+  },
+  {
+    "id": "CyclopsHullModule1",
+    "label": "Cyclops depth module MK1"
+  },
+  {
+    "id": "CyclopsHullModule2",
+    "label": "Cyclops depth module MK2"
+  },
+  {
+    "id": "CyclopsDecoyModule",
+    "label": "Cyclops Decoy Tube Upgrade"
+  },
+  {
+    "id": "CyclopsFireSuppressionModule",
+    "label": "Cyclops fire suppression system"
+  },
+  {
+    "id": "LaserCutter",
+    "label": "Laser Cutter"
+  },
+  {
+    "id": "Beacon",
+    "label": "Beacon"
+  },
+  {
+    "id": "Gravsphere",
+    "label": "Grav trap"
+  },
+  {
+    "id": "BaseLargeRoom",
+    "label": "Large room"
+  },
+  {
+    "id": "BasePartition",
+    "label": "Large room partition"
+  },
+  {
+    "id": "CyclopsHullModule3",
+    "label": "Cyclops depth module MK3"
+  },
+  {
+    "id": "BasePartitionDoor",
+    "label": "Large room partition door"
+  },
+  {
+    "id": "BaseLargeGlassDome",
+    "label": "Large room glass dome"
+  },
+  {
+    "id": "BaseGlassDome",
+    "label": "Multipurpose room glass dome"
+  },
+  {
+    "id": "HoleFish",
+    "label": "Holefish"
+  },
+  {
+    "id": "CookedHoleFish",
+    "label": "Cooked holefish"
+  },
+  {
+    "id": "CuredHoleFish",
+    "label": "Cured holefish"
+  },
+  {
+    "id": "Peeper",
+    "label": "Peeper"
+  },
+  {
+    "id": "CookedPeeper",
+    "label": "Cooked peeper"
+  },
+  {
+    "id": "CuredPeeper",
+    "label": "Cured peeper"
+  },
+  {
+    "id": "Bladderfish",
+    "label": "Bladderfish"
+  },
+  {
+    "id": "CookedBladderfish",
+    "label": "Cooked bladderfish"
+  },
+  {
+    "id": "CuredBladderfish",
+    "label": "Cured bladderfish"
+  },
+  {
+    "id": "AirBladder",
+    "label": "Air bladder"
+  },
+  {
+    "id": "GarryFish",
+    "label": "Garryfish"
+  },
+  {
+    "id": "CookedGarryFish",
+    "label": "Cooked garryfish"
+  },
+  {
+    "id": "CuredGarryFish",
+    "label": "Cured garryfish"
+  },
+  {
+    "id": "Hoverfish",
+    "label": "Hoverfish"
+  },
+  {
+    "id": "CookedHoverfish",
+    "label": "Cooked hoverfish"
+  },
+  {
+    "id": "CuredHoverfish",
+    "label": "Cured hoverfish"
+  },
+  {
+    "id": "Reginald",
+    "label": "Reginald"
+  },
+  {
+    "id": "CookedReginald",
+    "label": "Cooked reginald"
+  },
+  {
+    "id": "CuredReginald",
+    "label": "Cured reginald"
+  },
+  {
+    "id": "Spadefish",
+    "label": "Spadefish"
+  },
+  {
+    "id": "CookedSpadefish",
+    "label": "Cooked spadefish"
+  },
+  {
+    "id": "CuredSpadefish",
+    "label": "Cured spadefish"
+  },
+  {
+    "id": "Boomerang",
+    "label": "Boomerang"
+  },
+  {
+    "id": "CookedBoomerang",
+    "label": "Cooked boomerang"
+  },
+  {
+    "id": "CuredBoomerang",
+    "label": "Cured boomerang"
+  },
+  {
+    "id": "Eyeye",
+    "label": "Eyeye"
+  },
+  {
+    "id": "CookedEyeye",
+    "label": "Cooked eyeye"
+  },
+  {
+    "id": "CuredEyeye",
+    "label": "Cured eyeye"
+  },
+  {
+    "id": "Oculus",
+    "label": "Oculus"
+  },
+  {
+    "id": "CookedOculus",
+    "label": "Cooked oculus"
+  },
+  {
+    "id": "CuredOculus",
+    "label": "Cured oculus"
+  },
+  {
+    "id": "Hoopfish",
+    "label": "Hoopfish"
+  },
+  {
+    "id": "CookedHoopfish",
+    "label": "Cooked hoopfish"
+  },
+  {
+    "id": "CuredHoopfish",
+    "label": "Cured hoopfish"
+  },
+  {
+    "id": "Spinefish",
+    "label": "Spinefish"
+  },
+  {
+    "id": "CookedSpinefish",
+    "label": "Cooked spinefish"
+  },
+  {
+    "id": "CuredSpinefish",
+    "label": "Cured spinefish"
+  },
+  {
+    "id": "CreepvinePiece",
+    "label": "Creepvine sample"
+  },
+  {
+    "id": "FiberMesh",
+    "label": "Fiber mesh"
+  },
+  {
+    "id": "DiveReel",
+    "label": "Pathfinder tool"
+  },
+  {
+    "id": "CreepvineSeedCluster",
+    "label": "Creepvine seed cluster"
+  },
+  {
+    "id": "Lubricant",
+    "label": "Lubricant"
+  },
+  {
+    "id": "StalkerTooth",
+    "label": "Stalker Teeth"
+  },
+  {
+    "id": "WhiteMushroom",
+    "label": "Deep Shroom"
+  },
+  {
+    "id": "LavaBoomerang",
+    "label": "Magmarang"
+  },
+  {
+    "id": "CookedLavaBoomerang",
+    "label": "Cooked magmarang"
+  },
+  {
+    "id": "CuredLavaBoomerang",
+    "label": "Cured magmarang"
+  },
+  {
+    "id": "LavaEyeye",
+    "label": "Red Eyeye"
+  },
+  {
+    "id": "CookedLavaEyeye",
+    "label": "Cooked Red eyeye"
+  },
+  {
+    "id": "CuredLavaEyeye",
+    "label": "Cured red eyeye"
+  },
+  {
+    "id": "JellyPlant",
+    "label": "Gel Sack"
+  },
+  {
+    "id": "Aerogel",
+    "label": "Aerogel"
+  },
+  {
+    "id": "WaterFiltrationSuit",
+    "label": "Water filtration suit"
+  },
+  {
+    "id": "RepulsionCannon",
+    "label": "Repulsion Cannon"
+  },
+  {
+    "id": "PrecursorIonEnergyBlueprint",
+    "label": "PrecursorIonEnergyBlueprint"
+  },
+  {
+    "id": "PrecursorIonBattery",
+    "label": "Ion battery"
+  },
+  {
+    "id": "PrecursorIonPowerCell",
+    "label": "Ion power cell"
+  },
+  {
+    "id": "HighCapacityTank",
+    "label": "Ultra High Capacity Tank"
+  },
+  {
+    "id": "PlasteelTank",
+    "label": "Lightweight High Capacity Tank"
+  },
+  {
+    "id": "SwimChargeFins",
+    "label": "Swim charge fins"
+  },
+  {
+    "id": "UltraGlideFins",
+    "label": "Ultra glide fins"
+  },
+  {
+    "id": "Compass",
+    "label": "Compass"
+  },
+  {
+    "id": "PowerUpgradeModule",
+    "label": "Cyclops engine efficiency module"
+  },
+  {
+    "id": "CyclopsSeamothRepairModule",
+    "label": "Cyclops docking bay repair module"
+  },
+  {
+    "id": "CyclopsDecoy",
+    "label": "Creature decoy"
+  },
+  {
+    "id": "HatchingEnzymes",
+    "label": "Hatching enzymes"
+  },
+  {
+    "id": "CyclopsThermalReactorModule",
+    "label": "Cyclops thermal reactor module"
+  },
+  {
+    "id": "RadiationSuit",
+    "label": "Radiation suit"
+  },
+  {
+    "id": "DoubleTank",
+    "label": "High Capacity O₂ Tank"
+  },
+  {
+    "id": "BloodOil",
+    "label": "Blood oil"
+  },
+  {
+    "id": "Benzene",
+    "label": "Benzene"
+  },
+  {
+    "id": "AramidFibers",
+    "label": "Synthetic fibers"
+  },
+  {
+    "id": "PowerCell",
+    "label": "Power cell"
+  },
+  {
+    "id": "AdvancedWiringKit",
+    "label": "Advanced wiring kit"
+  }
+]

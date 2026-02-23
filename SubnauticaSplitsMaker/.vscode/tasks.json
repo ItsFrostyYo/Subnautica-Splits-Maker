@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Subnautica Splits Maker",
+      "type": "shell",
+      "command": "npm run build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Check (Generate + Test + Build)",
+      "type": "shell",
+      "command": "npm run check",
+      "problemMatcher": []
+    }
+  ]
+}

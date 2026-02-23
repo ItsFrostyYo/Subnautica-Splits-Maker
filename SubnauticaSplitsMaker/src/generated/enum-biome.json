@@ -1,0 +1,630 @@
+[
+  {
+    "id": "Any",
+    "label": "Any"
+  },
+  {
+    "id": "ALZChamber",
+    "label": "ALZChamber"
+  },
+  {
+    "id": "ALZFalls",
+    "label": "ALZFalls"
+  },
+  {
+    "id": "BloodKelp",
+    "label": "BloodKelp"
+  },
+  {
+    "id": "BloodKelp_Cave",
+    "label": "BloodKelp_Cave"
+  },
+  {
+    "id": "BloodKelp_DeepTrench",
+    "label": "BloodKelp_DeepTrench"
+  },
+  {
+    "id": "BloodKelp_Trench",
+    "label": "BloodKelp_Trench"
+  },
+  {
+    "id": "crashZone",
+    "label": "crashZone"
+  },
+  {
+    "id": "CrashZone_Mesa",
+    "label": "CrashZone_Mesa"
+  },
+  {
+    "id": "CrashZone_NoLoot",
+    "label": "CrashZone_NoLoot"
+  },
+  {
+    "id": "CrashZone_Trench",
+    "label": "CrashZone_Trench"
+  },
+  {
+    "id": "crashedShip",
+    "label": "crashedShip"
+  },
+  {
+    "id": "CrashedShip_Interior_Cargo",
+    "label": "CrashedShip_Interior_Cargo"
+  },
+  {
+    "id": "CrashedShip_Interior_Dark",
+    "label": "CrashedShip_Interior_Dark"
+  },
+  {
+    "id": "CrashedShip_Interior_Elevator",
+    "label": "CrashedShip_Interior_Elevator"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_01_01",
+    "label": "CrashedShip_Interior_Entrance_01_01"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_01_02",
+    "label": "CrashedShip_Interior_Entrance_01_02"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_01_03",
+    "label": "CrashedShip_Interior_Entrance_01_03"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_02_01",
+    "label": "CrashedShip_Interior_Entrance_02_01"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_02_02",
+    "label": "CrashedShip_Interior_Entrance_02_02"
+  },
+  {
+    "id": "CrashedShip_Interior_Entrance_03",
+    "label": "CrashedShip_Interior_Entrance_03"
+  },
+  {
+    "id": "CrashedShip_Interior_Exo",
+    "label": "CrashedShip_Interior_Exo"
+  },
+  {
+    "id": "CrashedShip_Interior_ExoPipes",
+    "label": "CrashedShip_Interior_ExoPipes"
+  },
+  {
+    "id": "CrashedShip_Interior_LivingArea",
+    "label": "CrashedShip_Interior_LivingArea"
+  },
+  {
+    "id": "CrashedShip_Interior_Locker",
+    "label": "CrashedShip_Interior_Locker"
+  },
+  {
+    "id": "CrashedShip_Interior_LockerCorridor",
+    "label": "CrashedShip_Interior_LockerCorridor"
+  },
+  {
+    "id": "CrashedShip_Interior_Power",
+    "label": "CrashedShip_Interior_Power"
+  },
+  {
+    "id": "CrashedShip_Interior_PowerCorridor",
+    "label": "CrashedShip_Interior_PowerCorridor"
+  },
+  {
+    "id": "CrashedShip_Interior_SeamothRoom",
+    "label": "CrashedShip_Interior_SeamothRoom"
+  },
+  {
+    "id": "CrashedShip_Interior_THallway",
+    "label": "CrashedShip_Interior_THallway"
+  },
+  {
+    "id": "CrashedShip_Interior_THallwayLower",
+    "label": "CrashedShip_Interior_THallwayLower"
+  },
+  {
+    "id": "grandReef",
+    "label": "grandReef"
+  },
+  {
+    "id": "DeepGrandReef",
+    "label": "DeepGrandReef"
+  },
+  {
+    "id": "Dunes",
+    "label": "Dunes"
+  },
+  {
+    "id": "Dunes_Cave_Dark",
+    "label": "Dunes_Cave_Dark"
+  },
+  {
+    "id": "Dunes_Cave_light",
+    "label": "Dunes_Cave_light"
+  },
+  {
+    "id": "Dunes_ThermalVents",
+    "label": "Dunes_ThermalVents"
+  },
+  {
+    "id": "Dunes_wreck",
+    "label": "Dunes_wreck"
+  },
+  {
+    "id": "EmperorFacility",
+    "label": "EmperorFacility"
+  },
+  {
+    "id": "FloatingIsland",
+    "label": "Land mass detected"
+  },
+  {
+    "id": "FloatingIslandBelow",
+    "label": "FloatingIslandBelow"
+  },
+  {
+    "id": "FloatingIslandCaveTeleporter",
+    "label": "FloatingIslandCaveTeleporter"
+  },
+  {
+    "id": "GrandReef_ThermalVent",
+    "label": "GrandReef_ThermalVent"
+  },
+  {
+    "id": "grassyPlateaus",
+    "label": "grassyPlateaus"
+  },
+  {
+    "id": "GrassyPlateaus_Tower",
+    "label": "GrassyPlateaus_Tower"
+  },
+  {
+    "id": "GrassyPlateaus_WreckInterior",
+    "label": "GrassyPlateaus_WreckInterior"
+  },
+  {
+    "id": "ILZCastleChamber",
+    "label": "ILZCastleChamber"
+  },
+  {
+    "id": "ILZCastleTunnel",
+    "label": "ILZCastleTunnel"
+  },
+  {
+    "id": "ILZChamber",
+    "label": "ILZChamber"
+  },
+  {
+    "id": "ILZChamberEntrance",
+    "label": "ILZChamberEntrance"
+  },
+  {
+    "id": "ILZChamber_Dragon",
+    "label": "ILZChamber_Dragon"
+  },
+  {
+    "id": "ILZChamber_MagmaBubble",
+    "label": "ILZChamber_MagmaBubble"
+  },
+  {
+    "id": "ILZChamber_MagmaTree",
+    "label": "ILZChamber_MagmaTree"
+  },
+  {
+    "id": "ILZCorridor",
+    "label": "ILZCorridor"
+  },
+  {
+    "id": "JellyshroomCaves",
+    "label": "JellyshroomCaves"
+  },
+  {
+    "id": "JellyshroomCaves_Geyser",
+    "label": "JellyshroomCaves_Geyser"
+  },
+  {
+    "id": "KelpForest",
+    "label": "KelpForest"
+  },
+  {
+    "id": "KelpForest_CaveEntrance",
+    "label": "KelpForest_CaveEntrance"
+  },
+  {
+    "id": "KelpForest_Dense",
+    "label": "KelpForest_Dense"
+  },
+  {
+    "id": "KelpForest_DenseVine",
+    "label": "KelpForest_DenseVine"
+  },
+  {
+    "id": "KooshZone",
+    "label": "KooshZone"
+  },
+  {
+    "id": "KooshZone_Geyser",
+    "label": "KooshZone_Geyser"
+  },
+  {
+    "id": "LavaFalls",
+    "label": "LavaFalls"
+  },
+  {
+    "id": "LavaLakes",
+    "label": "LavaLakes"
+  },
+  {
+    "id": "LavaLakes_LavaPool",
+    "label": "LavaLakes_LavaPool"
+  },
+  {
+    "id": "LavaPit",
+    "label": "LavaPit"
+  },
+  {
+    "id": "Lifepod",
+    "label": "2-Berth Emergency Lifepod"
+  },
+  {
+    "id": "LostRiver_BonesField",
+    "label": "LostRiver_BonesField"
+  },
+  {
+    "id": "LostRiver_BonesField_Cave",
+    "label": "LostRiver_BonesField_Cave"
+  },
+  {
+    "id": "LostRiver_BonesField_Corridor",
+    "label": "LostRiver_BonesField_Corridor"
+  },
+  {
+    "id": "LostRiver_BonesField_Corridor_Stream",
+    "label": "LostRiver_BonesField_Corridor_Stream"
+  },
+  {
+    "id": "LostRiver_BonesField_Lake",
+    "label": "LostRiver_BonesField_Lake"
+  },
+  {
+    "id": "LostRiver_BonesField_LakePit",
+    "label": "LostRiver_BonesField_LakePit"
+  },
+  {
+    "id": "LostRiver_BonesField_Ledge",
+    "label": "LostRiver_BonesField_Ledge"
+  },
+  {
+    "id": "LostRiver_BonesField_Skeleton",
+    "label": "LostRiver_BonesField_Skeleton"
+  },
+  {
+    "id": "LostRiver_BonesField_ThermalVent",
+    "label": "LostRiver_BonesField_ThermalVent"
+  },
+  {
+    "id": "LostRiver_Canyon",
+    "label": "LostRiver_Canyon"
+  },
+  {
+    "id": "LostRiver_Corridor",
+    "label": "LostRiver_Corridor"
+  },
+  {
+    "id": "LostRiver_Corridor_ThermalVents",
+    "label": "LostRiver_Corridor_ThermalVents"
+  },
+  {
+    "id": "LostRiver_GhostTree",
+    "label": "LostRiver_GhostTree"
+  },
+  {
+    "id": "LostRiver_GhostTree_Lake",
+    "label": "LostRiver_GhostTree_Lake"
+  },
+  {
+    "id": "LostRiver_GhostTree_Lower",
+    "label": "LostRiver_GhostTree_Lower"
+  },
+  {
+    "id": "LostRiver_GhostTree_Skeleton",
+    "label": "LostRiver_GhostTree_Skeleton"
+  },
+  {
+    "id": "LostRiver_Junction",
+    "label": "LostRiver_Junction"
+  },
+  {
+    "id": "LostRiver_Junction_ThermalVent",
+    "label": "LostRiver_Junction_ThermalVent"
+  },
+  {
+    "id": "LostRiver_Junction_Water",
+    "label": "LostRiver_Junction_Water"
+  },
+  {
+    "id": "LostRiver_SkeletonCave",
+    "label": "LostRiver_SkeletonCave"
+  },
+  {
+    "id": "LostRiver_SkeletonCave_Skeleton",
+    "label": "LostRiver_SkeletonCave_Skeleton"
+  },
+  {
+    "id": "LostRiver_TreeCove",
+    "label": "LostRiver_TreeCove"
+  },
+  {
+    "id": "LostRiver_TreeCove_Tree",
+    "label": "LostRiver_TreeCove_Tree"
+  },
+  {
+    "id": "LostRiver_TreeCove_Water",
+    "label": "LostRiver_TreeCove_Water"
+  },
+  {
+    "id": "Mountains_Cave",
+    "label": "Mountains_Cave"
+  },
+  {
+    "id": "Mountains_CaveEntrance",
+    "label": "Mountains_CaveEntrance"
+  },
+  {
+    "id": "Mountains_IslandSurface_Cave",
+    "label": "Mountains_IslandSurface_Cave"
+  },
+  {
+    "id": "Mountains_IslandSurface_CaveEntrance",
+    "label": "Mountains_IslandSurface_CaveEntrance"
+  },
+  {
+    "id": "Mountains_Island_Cave",
+    "label": "Mountains_Island_Cave"
+  },
+  {
+    "id": "Mountains_Island_CaveEntrance",
+    "label": "Mountains_Island_CaveEntrance"
+  },
+  {
+    "id": "Mountains_Island_Teleporter",
+    "label": "Mountains_Island_Teleporter"
+  },
+  {
+    "id": "Mountains_ThermalVent",
+    "label": "Mountains_ThermalVent"
+  },
+  {
+    "id": "MushroomForest",
+    "label": "MushroomForest"
+  },
+  {
+    "id": "PrecursorCache",
+    "label": "PrecursorCache"
+  },
+  {
+    "id": "PrecursorCave_CragField",
+    "label": "PrecursorCave_CragField"
+  },
+  {
+    "id": "PrecursorCave_GhostTree",
+    "label": "PrecursorCave_GhostTree"
+  },
+  {
+    "id": "PrecursorCave_KooshZone",
+    "label": "PrecursorCave_KooshZone"
+  },
+  {
+    "id": "PrecursorCave_MushroomForest",
+    "label": "PrecursorCave_MushroomForest"
+  },
+  {
+    "id": "PrecursorThermalRoom",
+    "label": "PrecursorThermalRoom"
+  },
+  {
+    "id": "Precursor_Gun_ControlRoom",
+    "label": "Scans indicate the facility's control room lies beyond this doorway."
+  },
+  {
+    "id": "Precursor_Gun_InnerRooms",
+    "label": "Precursor_Gun_InnerRooms"
+  },
+  {
+    "id": "Precursor_Gun_MoonPoolWater",
+    "label": "Precursor_Gun_MoonPoolWater"
+  },
+  {
+    "id": "Precursor_Gun_NoLoot",
+    "label": "Precursor_Gun_NoLoot"
+  },
+  {
+    "id": "Precursor_Gun_OuterRooms",
+    "label": "Precursor_Gun_OuterRooms"
+  },
+  {
+    "id": "Precursor_LavaCastleBase",
+    "label": "Precursor_LavaCastleBase"
+  },
+  {
+    "id": "Precursor_LostRiverBase",
+    "label": "Precursor_LostRiverBase"
+  },
+  {
+    "id": "Prison_Antechamber",
+    "label": "Prison_Antechamber"
+  },
+  {
+    "id": "Prison_Aquarium",
+    "label": "Prison_Aquarium"
+  },
+  {
+    "id": "Prison_Aquarium_Cave",
+    "label": "Prison_Aquarium_Cave"
+  },
+  {
+    "id": "Prison_Aquarium_Mid",
+    "label": "Prison_Aquarium_Mid"
+  },
+  {
+    "id": "Prison_Aquarium_Upper",
+    "label": "Prison_Aquarium_Upper"
+  },
+  {
+    "id": "Prison_Moonpool",
+    "label": "Prison_Moonpool"
+  },
+  {
+    "id": "Prison_UpperRoom",
+    "label": "Prison_UpperRoom"
+  },
+  {
+    "id": "Rocket",
+    "label": "Neptune Escape Rocket"
+  },
+  {
+    "id": "SafeShallows",
+    "label": "SafeShallows"
+  },
+  {
+    "id": "SparseReef",
+    "label": "SparseReef"
+  },
+  {
+    "id": "SparseReef_Deep",
+    "label": "SparseReef_Deep"
+  },
+  {
+    "id": "SparseReef_Spike",
+    "label": "SparseReef_Spike"
+  },
+  {
+    "id": "UnderwaterIslands",
+    "label": "UnderwaterIslands"
+  },
+  {
+    "id": "UnderwaterIslands_Island",
+    "label": "UnderwaterIslands_Island"
+  },
+  {
+    "id": "UnderwaterIslands_ValleyFloor",
+    "label": "UnderwaterIslands_ValleyFloor"
+  },
+  {
+    "id": "bloodKelp_wreck",
+    "label": "bloodKelp_wreck"
+  },
+  {
+    "id": "deepGrandReef",
+    "label": "deepGrandReef"
+  },
+  {
+    "id": "grandReef_wreck",
+    "label": "grandReef_wreck"
+  },
+  {
+    "id": "grassyPlateaus_Cave",
+    "label": "grassyPlateaus_Cave"
+  },
+  {
+    "id": "ilzLava",
+    "label": "ilzLava"
+  },
+  {
+    "id": "kelpForest_WreckInterior",
+    "label": "kelpForest_WreckInterior"
+  },
+  {
+    "id": "kooshZone_cave_dark",
+    "label": "kooshZone_cave_dark"
+  },
+  {
+    "id": "kooshZone_cave_trans",
+    "label": "kooshZone_cave_trans"
+  },
+  {
+    "id": "kooshZone_wreck",
+    "label": "kooshZone_wreck"
+  },
+  {
+    "id": "mountains",
+    "label": "mountains"
+  },
+  {
+    "id": "mountains_wreckinterior",
+    "label": "mountains_wreckinterior"
+  },
+  {
+    "id": "mushroomForest_cave_dark",
+    "label": "mushroomForest_cave_dark"
+  },
+  {
+    "id": "mushroomForest_cave_light",
+    "label": "mushroomForest_cave_light"
+  },
+  {
+    "id": "mushroomForest_wreck",
+    "label": "mushroomForest_wreck"
+  },
+  {
+    "id": "safeShallows_CaveEntrance",
+    "label": "safeShallows_CaveEntrance"
+  },
+  {
+    "id": "safeShallows_HugeTube",
+    "label": "safeShallows_HugeTube"
+  },
+  {
+    "id": "seaTreaderPath",
+    "label": "seaTreaderPath"
+  },
+  {
+    "id": "seaTreaderPath_Cave_dark",
+    "label": "seaTreaderPath_Cave_dark"
+  },
+  {
+    "id": "seaTreaderPath_Cave_light",
+    "label": "seaTreaderPath_Cave_light"
+  },
+  {
+    "id": "seaTreaderPath_wreck",
+    "label": "seaTreaderPath_wreck"
+  },
+  {
+    "id": "sparseReef_Wreck",
+    "label": "sparseReef_Wreck"
+  },
+  {
+    "id": "underwaterIslands_Cave",
+    "label": "underwaterIslands_Cave"
+  },
+  {
+    "id": "underwaterIslands_Geyser",
+    "label": "underwaterIslands_Geyser"
+  },
+  {
+    "id": "underwaterIslands_IslandCave",
+    "label": "underwaterIslands_IslandCave"
+  },
+  {
+    "id": "underwaterIslands_wreck",
+    "label": "underwaterIslands_wreck"
+  },
+  {
+    "id": "bloodKelpTwo",
+    "label": "bloodKelpTwo"
+  },
+  {
+    "id": "CragField",
+    "label": "CragField"
+  },
+  {
+    "id": "wreck",
+    "label": "wreck"
+  },
+  {
+    "id": "Void",
+    "label": "Crater Edge"
+  }
+]

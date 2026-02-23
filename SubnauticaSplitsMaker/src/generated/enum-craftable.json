@@ -1,0 +1,518 @@
+[
+  {
+    "id": "FiberMesh",
+    "label": "Fiber mesh"
+  },
+  {
+    "id": "Glass",
+    "label": "Glass"
+  },
+  {
+    "id": "Silicone",
+    "label": "Silicone rubber"
+  },
+  {
+    "id": "Bleach",
+    "label": "Bleach"
+  },
+  {
+    "id": "TitaniumIngot",
+    "label": "Titanium ingot"
+  },
+  {
+    "id": "CopperWire",
+    "label": "Copper wire"
+  },
+  {
+    "id": "WiringKit",
+    "label": "Wiring kit"
+  },
+  {
+    "id": "AdvancedWiringKit",
+    "label": "Advanced wiring kit"
+  },
+  {
+    "id": "PlasteelIngot",
+    "label": "Plasteel ingot"
+  },
+  {
+    "id": "EnameledGlass",
+    "label": "Enameled glass"
+  },
+  {
+    "id": "PowerCell",
+    "label": "Power cell"
+  },
+  {
+    "id": "ComputerChip",
+    "label": "Computer chip"
+  },
+  {
+    "id": "Fiber",
+    "label": "Fiber"
+  },
+  {
+    "id": "AluminumOxide",
+    "label": "Ruby"
+  },
+  {
+    "id": "HydrochloricAcid",
+    "label": "Hydrochloric acid"
+  },
+  {
+    "id": "Magnetite",
+    "label": "Magnetite"
+  },
+  {
+    "id": "Polyaniline",
+    "label": "Polyaniline"
+  },
+  {
+    "id": "AramidFibers",
+    "label": "Synthetic fibers"
+  },
+  {
+    "id": "Aerogel",
+    "label": "Aerogel"
+  },
+  {
+    "id": "Benzene",
+    "label": "Benzene"
+  },
+  {
+    "id": "Lubricant",
+    "label": "Lubricant"
+  },
+  {
+    "id": "ReactorRod",
+    "label": "Reactor rod"
+  },
+  {
+    "id": "Fins",
+    "label": "Fins"
+  },
+  {
+    "id": "Tank",
+    "label": "Standard O₂ Tank"
+  },
+  {
+    "id": "Battery",
+    "label": "Battery"
+  },
+  {
+    "id": "Knife",
+    "label": "Survival knife"
+  },
+  {
+    "id": "Flashlight",
+    "label": "Flashlight"
+  },
+  {
+    "id": "Beacon",
+    "label": "Beacon"
+  },
+  {
+    "id": "Builder",
+    "label": "Habitat Builder"
+  },
+  {
+    "id": "Compass",
+    "label": "Compass"
+  },
+  {
+    "id": "AirBladder",
+    "label": "Air bladder"
+  },
+  {
+    "id": "Pipe",
+    "label": "Pipe"
+  },
+  {
+    "id": "DiveReel",
+    "label": "Pathfinder tool"
+  },
+  {
+    "id": "Rebreather",
+    "label": "Rebreather"
+  },
+  {
+    "id": "RadiationSuit",
+    "label": "Radiation suit"
+  },
+  {
+    "id": "RadiationHelmet",
+    "label": "Radiation helmet"
+  },
+  {
+    "id": "RadiationGloves",
+    "label": "Radiation gloves"
+  },
+  {
+    "id": "ReinforcedDiveSuit",
+    "label": "Reinforced dive suit"
+  },
+  {
+    "id": "Scanner",
+    "label": "Handheld Scanner"
+  },
+  {
+    "id": "FireExtinguisher",
+    "label": "Fire extinguisher"
+  },
+  {
+    "id": "MapRoomHUDChip",
+    "label": "Scanner room HUD chip"
+  },
+  {
+    "id": "PipeSurfaceFloater",
+    "label": "Floating air pump"
+  },
+  {
+    "id": "CyclopsDecoy",
+    "label": "Creature decoy"
+  },
+  {
+    "id": "DoubleTank",
+    "label": "High Capacity O₂ Tank"
+  },
+  {
+    "id": "ReinforcedGloves",
+    "label": "Reinforced gloves"
+  },
+  {
+    "id": "Welder",
+    "label": "Repair Tool"
+  },
+  {
+    "id": "Seaglide",
+    "label": "Seaglide"
+  },
+  {
+    "id": "Constructor",
+    "label": "Mobile vehicle bay"
+  },
+  {
+    "id": "Flare",
+    "label": "Flare"
+  },
+  {
+    "id": "StasisRifle",
+    "label": "Stasis Rifle"
+  },
+  {
+    "id": "PropulsionCannon",
+    "label": "Propulsion Cannon"
+  },
+  {
+    "id": "Gravsphere",
+    "label": "Grav trap"
+  },
+  {
+    "id": "SmallStorage",
+    "label": "Waterproof Locker"
+  },
+  {
+    "id": "LaserCutter",
+    "label": "Laser Cutter"
+  },
+  {
+    "id": "LEDLight",
+    "label": "Light Stick"
+  },
+  {
+    "id": "HeatBlade",
+    "label": "Thermoblade"
+  },
+  {
+    "id": "PlasteelTank",
+    "label": "Lightweight High Capacity Tank"
+  },
+  {
+    "id": "HighCapacityTank",
+    "label": "Ultra High Capacity Tank"
+  },
+  {
+    "id": "UltraGlideFins",
+    "label": "Ultra glide fins"
+  },
+  {
+    "id": "SwimChargeFins",
+    "label": "Swim charge fins"
+  },
+  {
+    "id": "RepulsionCannon",
+    "label": "Repulsion Cannon"
+  },
+  {
+    "id": "WaterFiltrationSuit",
+    "label": "Water filtration suit"
+  },
+  {
+    "id": "HatchingEnzymes",
+    "label": "Hatching enzymes"
+  },
+  {
+    "id": "CyclopsShieldModule",
+    "label": "Cyclops shield generator"
+  },
+  {
+    "id": "CyclopsSonarModule",
+    "label": "Cyclops sonar upgrade"
+  },
+  {
+    "id": "CyclopsSeamothRepairModule",
+    "label": "Cyclops docking bay repair module"
+  },
+  {
+    "id": "CyclopsDecoyModule",
+    "label": "Cyclops Decoy Tube Upgrade"
+  },
+  {
+    "id": "CyclopsFireSuppressionModule",
+    "label": "Cyclops fire suppression system"
+  },
+  {
+    "id": "CyclopsFabricator",
+    "label": "Fabricator"
+  },
+  {
+    "id": "CyclopsThermalReactorModule",
+    "label": "Cyclops thermal reactor module"
+  },
+  {
+    "id": "CyclopsHullModule3",
+    "label": "Cyclops depth module MK3"
+  },
+  {
+    "id": "Seamoth",
+    "label": "Seamoth"
+  },
+  {
+    "id": "Exosuit",
+    "label": "Prawn suit"
+  },
+  {
+    "id": "Cyclops",
+    "label": "Cyclops"
+  },
+  {
+    "id": "VehiclePowerUpgradeModule",
+    "label": "Engine efficiency module"
+  },
+  {
+    "id": "SeamothSolarCharge",
+    "label": "Seamoth solar charger"
+  },
+  {
+    "id": "VehicleStorageModule",
+    "label": "Storage module"
+  },
+  {
+    "id": "SeamothElectricalDefense",
+    "label": "Seamoth perimeter defense system"
+  },
+  {
+    "id": "VehicleArmorPlating",
+    "label": "Hull reinforcement"
+  },
+  {
+    "id": "SeamothTorpedoModule",
+    "label": "Seamoth torpedo system"
+  },
+  {
+    "id": "SeamothSonarModule",
+    "label": "Seamoth sonar"
+  },
+  {
+    "id": "WhirlpoolTorpedo",
+    "label": "Vortex torpedo"
+  },
+  {
+    "id": "VehicleHullModule1",
+    "label": "Seamoth depth module MK1"
+  },
+  {
+    "id": "VehicleHullModule2",
+    "label": "Seamoth depth module MK2"
+  },
+  {
+    "id": "VehicleHullModule3",
+    "label": "Seamoth depth module MK3"
+  },
+  {
+    "id": "ExosuitJetUpgradeModule",
+    "label": "Prawn suit jump jet upgrade"
+  },
+  {
+    "id": "ExosuitDrillArmModule",
+    "label": "Prawn suit drill arm"
+  },
+  {
+    "id": "ExosuitThermalReactorModule",
+    "label": "Prawn suit thermal reactor"
+  },
+  {
+    "id": "ExosuitClawArmModule",
+    "label": "Prawn suit claw arm"
+  },
+  {
+    "id": "GasTorpedo",
+    "label": "Gas torpedo"
+  },
+  {
+    "id": "ExosuitPropulsionArmModule",
+    "label": "Prawn suit propulsion cannon"
+  },
+  {
+    "id": "ExosuitGrapplingArmModule",
+    "label": "Prawn suit grappling arm"
+  },
+  {
+    "id": "ExosuitTorpedoArmModule",
+    "label": "Prawn suit torpedo arm"
+  },
+  {
+    "id": "ExosuitDrillArmFragment",
+    "label": "Prawn suit drill arm fragment"
+  },
+  {
+    "id": "ExosuitPropulsionArmFragment",
+    "label": "Prawn suit propulsion arm fragment"
+  },
+  {
+    "id": "ExosuitGrapplingArmFragment",
+    "label": "Prawn suit grappling arm fragment"
+  },
+  {
+    "id": "ExosuitTorpedoArmFragment",
+    "label": "Prawn suit torpedo arm fragment"
+  },
+  {
+    "id": "ExosuitClawArmFragment",
+    "label": "Prawn suit fragment"
+  },
+  {
+    "id": "ExoHullModule1",
+    "label": "Prawn suit depth module MK1"
+  },
+  {
+    "id": "ExoHullModule2",
+    "label": "Prawn suit depth module MK2"
+  },
+  {
+    "id": "MapRoomUpgradeScanRange",
+    "label": "Scanner room range upgrade"
+  },
+  {
+    "id": "MapRoomUpgradeScanSpeed",
+    "label": "Scanner room speed upgrade"
+  },
+  {
+    "id": "BloodOil",
+    "label": "Blood oil"
+  },
+  {
+    "id": "PrecursorKey_Red",
+    "label": "Red tablet"
+  },
+  {
+    "id": "PrecursorKey_Blue",
+    "label": "Blue Tablet"
+  },
+  {
+    "id": "PrecursorKey_Orange",
+    "label": "Orange Tablet"
+  },
+  {
+    "id": "PrecursorKey_White",
+    "label": "White tablet"
+  },
+  {
+    "id": "PrecursorKey_Purple",
+    "label": "Purple Tablet"
+  },
+  {
+    "id": "PrecursorIonPowerCell",
+    "label": "Ion power cell"
+  },
+  {
+    "id": "PrecursorIonBattery",
+    "label": "Ion battery"
+  },
+  {
+    "id": "FilteredWater",
+    "label": "Filtered water"
+  },
+  {
+    "id": "DisinfectedWater",
+    "label": "Disinfected water"
+  },
+  {
+    "id": "CookedPeeper",
+    "label": "Cooked peeper"
+  },
+  {
+    "id": "CookedHoleFish",
+    "label": "Cooked holefish"
+  },
+  {
+    "id": "CookedGarryFish",
+    "label": "Cooked garryfish"
+  },
+  {
+    "id": "CookedReginald",
+    "label": "Cooked reginald"
+  },
+  {
+    "id": "CookedBladderfish",
+    "label": "Cooked bladderfish"
+  },
+  {
+    "id": "CookedHoverfish",
+    "label": "Cooked hoverfish"
+  },
+  {
+    "id": "CookedSpadefish",
+    "label": "Cooked spadefish"
+  },
+  {
+    "id": "CookedBoomerang",
+    "label": "Cooked boomerang"
+  },
+  {
+    "id": "CookedEyeye",
+    "label": "Cooked eyeye"
+  },
+  {
+    "id": "CookedOculus",
+    "label": "Cooked oculus"
+  },
+  {
+    "id": "CookedHoopfish",
+    "label": "Cooked hoopfish"
+  },
+  {
+    "id": "FirstAidKit",
+    "label": "First aid kit"
+  },
+  {
+    "id": "WaterFiltrationSuitWater",
+    "label": "Reclaimed water"
+  },
+  {
+    "id": "BigFilteredWater",
+    "label": "Large filtered water"
+  },
+  {
+    "id": "CookedSpinefish",
+    "label": "Cooked spinefish"
+  },
+  {
+    "id": "CookedLavaEyeye",
+    "label": "Cooked Red eyeye"
+  },
+  {
+    "id": "CookedLavaBoomerang",
+    "label": "Cooked magmarang"
+  }
+]

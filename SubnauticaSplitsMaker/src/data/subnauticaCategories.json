@@ -1,0 +1,956 @@
+﻿[
+    {
+        "id":  "subnautica:ndx73pj2",
+        "label":  "100%",
+        "group":  "Main Categories",
+        "categoryName":  "100%",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "ndx73pj2"
+                   }
+    },
+    {
+        "id":  "subnautica:vdoo7q9d",
+        "label":  "All Achievements",
+        "group":  "Main Categories",
+        "categoryName":  "All Achievements",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "vdoo7q9d"
+                   }
+    },
+    {
+        "id":  "subnautica:zdn4npqk",
+        "label":  "All Blueprints",
+        "group":  "Main Categories",
+        "categoryName":  "All Blueprints",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "zdn4npqk"
+                   }
+    },
+    {
+        "id":  "subnautica:n2y5em8k",
+        "label":  "Any%",
+        "group":  "Main Categories",
+        "categoryName":  "Any%",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "n2y5em8k"
+                   }
+    },
+    {
+        "id":  "subnautica:q25qxw82",
+        "label":  "Early Access Runs",
+        "group":  "Main Categories",
+        "categoryName":  "Early Access Runs",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Category",
+                                        "label":  "Category",
+                                        "options":  [
+                                                        "Hatch%",
+                                                        "Required Tools",
+                                                        "Console%",
+                                                        "All Blueprints"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Version",
+                                        "label":  "Version",
+                                        "options":  [
+                                                        "Cuddlefish",
+                                                        "Ghost",
+                                                        "Voice of the Deep",
+                                                        "Silent Running",
+                                                        "Infected"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "q25qxw82"
+                   }
+    },
+    {
+        "id":  "subnautica:z273qood",
+        "label":  "Hatch%",
+        "group":  "Main Categories",
+        "categoryName":  "Hatch%",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "z273qood"
+                   }
+    },
+    {
+        "id":  "subnautica:02q3v9pk",
+        "label":  "No Damage",
+        "group":  "Main Categories",
+        "categoryName":  "No Damage",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game Mode":  "Survival"
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "02q3v9pk"
+                   }
+    },
+    {
+        "id":  "subnautica:xd13gr8k",
+        "label":  "Required Tools",
+        "group":  "Main Categories",
+        "categoryName":  "Required Tools",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica",
+                       "gameId":  "9dom836p",
+                       "categoryId":  "xd13gr8k"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:7dg6x9xk",
+        "label":  "All Lifepod PDAs",
+        "group":  "Category Extensions",
+        "categoryName":  "All Lifepod PDAs",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "7dg6x9xk"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:xd11em4d",
+        "label":  "All Vehicles",
+        "group":  "Category Extensions",
+        "categoryName":  "All Vehicles",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "xd11em4d"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:wkp39y02",
+        "label":  "Console%",
+        "group":  "Category Extensions",
+        "categoryName":  "Console%",
+        "variableDefinitions":  [
+
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "wkp39y02"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:9d8o6v32",
+        "label":  "Cyclops",
+        "group":  "Category Extensions",
+        "categoryName":  "Cyclops",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "9d8o6v32"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:jdzwevgd",
+        "label":  "Death - Any",
+        "group":  "Category Extensions",
+        "categoryName":  "Death - Any",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless",
+                                                        "Fire",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "jdzwevgd"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:jdrl975d",
+        "label":  "Death - Dragon",
+        "group":  "Category Extensions",
+        "categoryName":  "Death - Dragon",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "jdrl975d"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:q25mx7vd",
+        "label":  "Death - Reaper",
+        "group":  "Category Extensions",
+        "categoryName":  "Death - Reaper",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "q25mx7vd"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:5dw6gn02",
+        "label":  "Ecology",
+        "group":  "Category Extensions",
+        "categoryName":  "Ecology",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "5dw6gn02"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:ndx5pvjk",
+        "label":  "Full Loadout",
+        "group":  "Category Extensions",
+        "categoryName":  "Full Loadout",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "ndx5pvjk"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:z271moz2",
+        "label":  "Interact - QEP",
+        "group":  "Category Extensions",
+        "categoryName":  "Interact - QEP",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "z271moz2"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:7kjllxg2",
+        "label":  "Moist%",
+        "group":  "Category Extensions",
+        "categoryName":  "Moist%",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "7kjllxg2"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:9kvqmxod",
+        "label":  "PRAWN",
+        "group":  "Category Extensions",
+        "categoryName":  "PRAWN",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "9kvqmxod"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:zdn8n19d",
+        "label":  "Repair Drive Core",
+        "group":  "Category Extensions",
+        "categoryName":  "Repair Drive Core",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "zdn8n19d"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:jdzmw1vk",
+        "label":  "Repair Lifepod",
+        "group":  "Category Extensions",
+        "categoryName":  "Repair Lifepod",
+        "variableDefinitions":  [
+
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "jdzmw1vk"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:zd3v6y82",
+        "label":  "Seamoth",
+        "group":  "Category Extensions",
+        "categoryName":  "Seamoth",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "zd3v6y82"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:02qv9lyd",
+        "label":  "Single Oxygen Tank",
+        "group":  "Category Extensions",
+        "categoryName":  "Single Oxygen Tank",
+        "variableDefinitions":  [
+
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "02qv9lyd"
+                   }
+    },
+    {
+        "id":  "subnautica_category_extensions:9kvvvn3k",
+        "label":  "Unusual Doll",
+        "group":  "Category Extensions",
+        "categoryName":  "Unusual Doll",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+
+                           },
+        "source":  {
+                       "gameSlug":  "subnautica_category_extensions",
+                       "gameId":  "76rx0ze6",
+                       "categoryId":  "9kvvvn3k"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:jdr55oxk",
+        "label":  "All Potions",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "All Potions",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Category Type",
+                                        "label":  "Category Type",
+                                        "options":  [
+                                                        "Normal",
+                                                        "Coffee"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "jdr55oxk"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:82477jg2",
+        "label":  "Any% BetterRNG",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Any% BetterRNG",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "82477jg2"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:9d8qqy3d",
+        "label":  "Chair%",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Chair%",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "9d8qqy3d"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:q25nlx82",
+        "label":  "Construction",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Construction",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Glitched",
+                                                        "Glitchless"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Hardcore",
+                                                        "Creative"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Module/Component",
+                                        "label":  "Module/Component",
+                                        "options":  [
+                                                        "L Glass Compartment",
+                                                        "Medkit Fabricator"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "q25nlx82"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:jdr539xk",
+        "label":  "Death(s)",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Death(s)",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Death Type",
+                                        "label":  "Death Type",
+                                        "options":  [
+                                                        "Gasopod(s)",
+                                                        "Bone Shark",
+                                                        "Ghost Leviathan "
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "jdr539xk"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:xd1yy44d",
+        "label":  "Full Inventory",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Full Inventory",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Run Type",
+                                        "label":  "Run Type",
+                                        "options":  [
+                                                        "Normal",
+                                                        "+Storage"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Creative"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "xd1yy44d"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:xd1yy88d",
+        "label":  "Obtain Item(s)",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "Obtain Item(s)",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Item(s)",
+                                        "label":  "Item(s)",
+                                        "options":  [
+                                                        "Seaglide",
+                                                        "Propulsion Cannon",
+                                                        "Acid Mushroom",
+                                                        "Stalker Tooth",
+                                                        "Cured Oculus",
+                                                        "Stalker Tooth (4)"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "xd1yy88d"
+                   }
+    },
+    {
+        "id":  "Subnautica_UCE:02qnnmp2",
+        "label":  "PIOGTC",
+        "group":  "Unofficial Category Extensions",
+        "categoryName":  "PIOGTC",
+        "variableDefinitions":  [
+                                    {
+                                        "key":  "Game Mode",
+                                        "label":  "Game Mode",
+                                        "options":  [
+                                                        "Survival",
+                                                        "Creative"
+                                                    ]
+                                    },
+                                    {
+                                        "key":  "Item(s)",
+                                        "label":  "Item(s)",
+                                        "options":  [
+                                                        "Copper",
+                                                        "Titanium",
+                                                        "Quartz",
+                                                        "Metal Salvage"
+                                                    ]
+                                    }
+                                ],
+        "fixedVariables":  {
+                               "Game":  "Subnautica"
+                           },
+        "source":  {
+                       "gameSlug":  "Subnautica_UCE",
+                       "gameId":  "2689ym71",
+                       "categoryId":  "02qnnmp2"
+                   }
+    }
+]

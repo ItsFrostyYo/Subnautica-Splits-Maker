@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://subnautica-splits-maker.local/config.schema.json",
+  "title": "SubnauticaRunConfig",
+  "type": "object",
+  "required": ["configVersion", "metadata", "globalSettings", "splits"],
+  "properties": {
+    "configVersion": {
+      "const": 1
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["gameName", "categoryName", "variables", "offset"],
+      "properties": {
+        "gameName": { "type": "string" },
+        "categoryName": { "type": "string" },
+        "variables": {
+          "type": "object",
+          "additionalProperties": { "type": "string" }
+        },
+        "offset": { "type": "string" }
+      }
+    },
+    "globalSettings": {
+      "type": "object",
+      "required": [
+        "IntroStart",
+        "CreativeStart",
+        "Reset",
+        "AskForGoldSave",
+        "SRCLoadtimes",
+        "OrderedLiveSplit",
+        "OrderedAutoSplits"
+      ],
+      "properties": {
+        "IntroStart": { "type": "boolean" },
+        "CreativeStart": { "type": "boolean" },
+        "Reset": { "type": "boolean" },
+        "AskForGoldSave": { "type": "boolean" },
+        "SRCLoadtimes": { "type": "boolean" },
+        "OrderedLiveSplit": { "type": "boolean" },
+        "OrderedAutoSplits": { "type": "boolean" }
+      }
+    },
+    "splits": {
+      "type": "array",
+      "items": { "type": "object" }
+    }
+  }
+}
