@@ -1,0 +1,21 @@
+{
+  "name": "Subnautica Splits Maker",
+  "short_name": "Splits Maker",
+  "description": "Build, Customize, and Share Subnautica LiveSplit Splits with Autosplitter Configurations.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1f2a",
+  "theme_color": "#0b1f2a",
+  "icons": [
+    {
+      "src": "./app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
