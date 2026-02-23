@@ -22,5 +22,53 @@
       "OrderedAutoSplits": false
     },
     "splits": []
+  },
+  {
+    "id": "main-any-creative-glitched",
+    "label": "Any% Survival Glitched",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitched",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
+  },
+  {
+    "id": "main-any-creative-glitchless",
+    "label": "Any% Survival Glitchless",
+    "group": "Main Categories",
+    "metadata": {
+      "gameName": "Subnautica",
+      "categoryName": "Any%",
+      "variables": {
+        "Run Type": "Glitchless",
+        "Game Mode": "Creative"
+      },
+      "offset": "00:00:00"
+    },
+    "globalSettings": {
+      "IntroStart": false,
+      "CreativeStart": true,
+      "Reset": true,
+      "AskForGoldSave": false,
+      "SRCLoadtimes": true,
+      "OrderedLiveSplit": true,
+      "OrderedAutoSplits": false
+    },
+    "splits": []
   }
 ]
