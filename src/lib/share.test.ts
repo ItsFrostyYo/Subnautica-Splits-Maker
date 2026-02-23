@@ -8,9 +8,11 @@ describe("share url", () => {
   });
 
   it("builds a canonical github pages compatible share link", () => {
-    const url = buildShareUrl(createBlankConfig());
+    const result = buildShareUrl(createBlankConfig());
+    const url = result.url;
     expect(url.includes("/SubnauticaSplitsMaker/")).toBe(true);
     expect(url.includes("index.html")).toBe(false);
     expect(url.includes("share=")).toBe(true);
+    expect(result.iconsStripped).toBe(false);
   });
 });

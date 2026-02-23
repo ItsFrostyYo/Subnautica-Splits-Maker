@@ -2,6 +2,7 @@ import LZString from "lz-string";
 import { SubnauticaRunConfig } from "../types/model";
 
 const SHARE_PARAM = "share";
+const SHARE_URL_MAX_LENGTH = 1800;
 
 function getCanonicalBaseUrl(): URL {
   const { origin, pathname } = window.location;
@@ -21,10 +22,45 @@ export function decodeShareConfig(value: string): SubnauticaRunConfig {
   return JSON.parse(decompressed) as SubnauticaRunConfig;
 }
 
-export function buildShareUrl(config: SubnauticaRunConfig): string {
+interface ShareBuildResult {
+  url: string;
+  iconsStripped: boolean;
+}
+
+function stripIconsFromConfig(config: SubnauticaRunConfig): SubnauticaRunConfig {
+  const stripNodeIcons = (
+    node: SubnauticaRunConfig["splits"][number]
+  ): SubnauticaRunConfig["splits"][number] => ({
+    ...node,
+    iconData: "",
+    conditions: node.conditions.map((condition) => stripNodeIcons(condition))
+  });
+
+  return {
+    ...config,
+    splits: config.splits.map((split) => stripNodeIcons(split))
+  };
+}
+
+function buildUrl(config: SubnauticaRunConfig): string {
   const url = getCanonicalBaseUrl();
   url.searchParams.set(SHARE_PARAM, encodeShareConfig(config));
   return url.toString();
+}
+
+export function buildShareUrl(config: SubnauticaRunConfig): ShareBuildResult {
+  const fullUrl = buildUrl(config);
+  if (fullUrl.length <= SHARE_URL_MAX_LENGTH) {
+    return { url: fullUrl, iconsStripped: false };
+  }
+
+  const noIconsConfig = stripIconsFromConfig(config);
+  const strippedUrl = buildUrl(noIconsConfig);
+  if (strippedUrl.length <= SHARE_URL_MAX_LENGTH) {
+    return { url: strippedUrl, iconsStripped: true };
+  }
+
+  throw new Error("Share URL is too large for browsers/CDN even without icons.");
 }
 
 export function getShareParam(): string | null {

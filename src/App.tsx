@@ -145,12 +145,16 @@ export default function App() {
 
   const onShareClick = async () => {
     try {
-      const url = buildShareUrl(config);
-      await navigator.clipboard.writeText(url);
-      setCopyStatus("Share URL copied to clipboard.");
+      const result = buildShareUrl(config);
+      await navigator.clipboard.writeText(result.url);
+      setCopyStatus(
+        result.iconsStripped
+          ? "Share URL copied (icons removed to keep the link valid)."
+          : "Share URL copied to clipboard."
+      );
       window.setTimeout(() => setCopyStatus(""), 1800);
-    } catch {
-      setCopyStatus("Failed to copy share URL.");
+    } catch (error) {
+      setCopyStatus(`Failed to copy share URL: ${(error as Error).message}`);
     }
   };
 
