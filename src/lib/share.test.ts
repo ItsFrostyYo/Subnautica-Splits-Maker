@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import { createBlankConfig } from "../store/useAppStore";
-import { buildShareUrl, getShareParam } from "./share";
+import { buildShareUrl, decodeShareConfig, encodeShareConfig, getShareParam } from "./share";
 
 describe("share url", () => {
   beforeEach(() => {
@@ -25,5 +25,28 @@ describe("share url", () => {
   it("supports legacy query-string share payload", () => {
     window.history.replaceState({}, "", "/SubnauticaSplitsMaker/?share=legacy123");
     expect(getShareParam()).toBe("legacy123");
+  });
+
+  it("round-trips config with icon data using compact share format", () => {
+    const config = createBlankConfig();
+    config.splits = [
+      {
+        id: "node-1",
+        kind: "inventory",
+        itemId: "Titanium",
+        pickUp: true,
+        isCount: true,
+        count: 2,
+        onlySplitOnce: true,
+        isSubCondition: false,
+        displayNameOverride: "Grab Titanium",
+        iconData: "data:image/png;base64,AAAA",
+        conditions: []
+      }
+    ];
+
+    const encoded = encodeShareConfig(config);
+    expect(encoded.startsWith("v2:")).toBe(true);
+    expect(decodeShareConfig(encoded)).toEqual(config);
   });
 });
